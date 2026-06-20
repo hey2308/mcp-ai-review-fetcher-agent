@@ -59,7 +59,7 @@ External dependencies (not hosted by you):
 |---|---|---|
 | Scheduler | **GitHub Actions** | Free CI minutes, artifact commit to repo, no extra Render service |
 | MCP / Google auth | **Render Web Service** | Must be always-reachable over HTTPS for OAuth |
-| Secrets | GitHub Secrets + Variables | `GROQ_API_KEY` and publish config never in git |
+| Secrets | GitHub Secrets | All API keys and publish config never in git |
 | Non-secrets | `config.yaml` in repo | App IDs, Groq limits, review window |
 
 ---
@@ -112,7 +112,7 @@ Each run:
 
 > Verification runs as a separate non-blocking step so intermittent App Store empty results (AC-1.2) do not prevent artifact commits.
 
-### 3.2 Configure GitHub Secrets and Variables
+### 3.2 Configure GitHub Secrets
 
 Go to **Settings → Secrets and variables → Actions** on the repo.
 
@@ -122,15 +122,10 @@ Go to **Settings → Secrets and variables → Actions** on the repo.
 |---|---|---|
 | `GROQ_API_KEY` | Yes | From [console.groq.com/keys](https://console.groq.com/keys) |
 | `GOOGLE_DOC_ID` | Yes | `1Vxf5vjn_cg3O1oYU8l22C26A3kIceMBUsOtMzjCaA6E` |
-
-**Variables** (plain text, not sensitive):
-
-| Name | Required | Example |
-|---|---|---|
 | `MCP_SERVER_URL` | Yes | `https://khyati-mcp-server.onrender.com` |
 | `EMAIL_ALIAS` | Yes | `team-alias@example.com` |
 
-These env vars override `config.yaml` at runtime (see `phase5/config.py`).
+All publish and API settings are supplied via secrets — nothing sensitive is committed to git.
 
 ### 3.3 Enable workflow permissions
 
@@ -177,20 +172,20 @@ jobs:
       - name: Warm up MCP server
         run: curl -sf --retry 3 --retry-delay 10 "${MCP_SERVER_URL%/}/"
         env:
-          MCP_SERVER_URL: ${{ vars.MCP_SERVER_URL }}
+          MCP_SERVER_URL: ${{ secrets.MCP_SERVER_URL }}
       - name: Run weekly pipeline
         env:
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
-          MCP_SERVER_URL: ${{ vars.MCP_SERVER_URL }}
-          EMAIL_ALIAS: ${{ vars.EMAIL_ALIAS }}
+          MCP_SERVER_URL: ${{ secrets.MCP_SERVER_URL }}
+          EMAIL_ALIAS: ${{ secrets.EMAIL_ALIAS }}
           GOOGLE_DOC_ID: ${{ secrets.GOOGLE_DOC_ID }}
         run: python run_pipeline.py --no-verify
       - name: Verify pipeline output
         continue-on-error: true
         env:
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
-          MCP_SERVER_URL: ${{ vars.MCP_SERVER_URL }}
-          EMAIL_ALIAS: ${{ vars.EMAIL_ALIAS }}
+          MCP_SERVER_URL: ${{ secrets.MCP_SERVER_URL }}
+          EMAIL_ALIAS: ${{ secrets.EMAIL_ALIAS }}
           GOOGLE_DOC_ID: ${{ secrets.GOOGLE_DOC_ID }}
         run: python -m phase5.verify
       - name: Commit weekly artifacts
@@ -257,8 +252,8 @@ Free-tier Render services spin down when idle. The GitHub Actions workflow inclu
 - [ ] Repo pushed to GitHub
 - [ ] Secret `GROQ_API_KEY` set
 - [ ] Secret `GOOGLE_DOC_ID` set
-- [ ] Variable `MCP_SERVER_URL` set
-- [ ] Variable `EMAIL_ALIAS` set
+- [ ] Secret `MCP_SERVER_URL` set
+- [ ] Secret `EMAIL_ALIAS` set
 - [ ] Workflow permissions: read and write
 - [ ] Manual workflow run succeeds
 - [ ] `data/` commit appears on `main`
@@ -321,7 +316,7 @@ Enable GitHub notifications for workflow failures:
 | Bad pulse content | Do not send Gmail draft; Doc append is additive |
 | Groq outage | Wait and manually trigger workflow |
 | MCP OAuth expired | Re-auth on Render MCP server; re-run workflow |
-| Wrong secrets | Update GitHub Secrets/Variables; re-run workflow |
+| Wrong secrets | Update GitHub Secrets; re-run workflow |
 
 ---
 
@@ -340,7 +335,7 @@ Enable GitHub notifications for workflow failures:
 | Item | Guidance |
 |---|---|
 | `GROQ_API_KEY` | GitHub Secret only |
-| `GOOGLE_DOC_ID`, `EMAIL_ALIAS` | GitHub Secret / Variable — not in git |
+| `GOOGLE_DOC_ID`, `EMAIL_ALIAS`, `MCP_SERVER_URL` | GitHub Secrets — not in git |
 | `.env` | Local only; listed in `.gitignore` |
 | `config.yaml` | Safe to commit (non-secret tuning params) |
 | Google OAuth tokens | MCP server only; agent never sees them |
@@ -367,10 +362,10 @@ Enable GitHub notifications for workflow failures:
 
 | Setting | Local | GitHub Actions |
 |---|---|---|
-| Secrets | `.env` file | GitHub Secrets + Variables |
+| Secrets | `.env` file | GitHub Secrets |
 | Scheduler | Manual `python run_pipeline.py` | Cron Mon 06:00 UTC |
 | Artifacts | Written to `data/` | Committed to repo |
-| MCP URL | `MCP_SERVER_URL` in `.env` | `vars.MCP_SERVER_URL` |
+| MCP URL | `MCP_SERVER_URL` in `.env` | `secrets.MCP_SERVER_URL` |
 
 Copy `.env.example` to `.env` for local runs:
 
@@ -397,7 +392,7 @@ copy .env.example .env   # Windows
 | Step | Duration |
 |---|---|
 | Push repo to GitHub | 5 min |
-| Configure Secrets + Variables | 10 min |
+| Configure GitHub Secrets | 10 min |
 | MCP server on Render (if not already live) | 15 min |
 | MCP OAuth | 10 min |
 | Local smoke test | 10 min |

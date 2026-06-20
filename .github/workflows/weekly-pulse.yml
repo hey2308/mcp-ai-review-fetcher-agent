@@ -16,8 +16,8 @@ jobs:
 
     env:
       GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
-      MCP_SERVER_URL: ${{ vars.MCP_SERVER_URL }}
-      EMAIL_ALIAS: ${{ vars.EMAIL_ALIAS }}
+      MCP_SERVER_URL: ${{ secrets.MCP_SERVER_URL }}
+      EMAIL_ALIAS: ${{ secrets.EMAIL_ALIAS }}
       GOOGLE_DOC_ID: ${{ secrets.GOOGLE_DOC_ID }}
 
     steps:

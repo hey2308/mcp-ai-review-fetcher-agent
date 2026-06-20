@@ -58,8 +58,8 @@ These env vars **override** `config.yaml` when set (local `.env` or GitHub Actio
 | Env var | Overrides | GitHub |
 |---|---|---|
 | `GROQ_API_KEY` | (required for live runs) | **Secret** |
-| `MCP_SERVER_URL` | `mcp_server_url` | Variable or Secret |
-| `EMAIL_ALIAS` | `email_alias` | Variable or Secret |
+| `MCP_SERVER_URL` | `mcp_server_url` | Secret |
+| `EMAIL_ALIAS` | `email_alias` | Secret |
 | `GOOGLE_DOC_ID` | `google_doc_id` | Secret |
 
 You can keep defaults in `config.yaml` and only set env vars in CI, or remove the publish keys from `config.yaml` and supply them entirely via env.
@@ -131,14 +131,14 @@ Production scheduling runs on **GitHub Actions** — not Render.
 | **Schedule** | Every Monday 06:00 UTC |
 | **Manual** | Actions → Weekly Groww Pulse → Run workflow |
 
-Configure in **Settings → Secrets and variables → Actions**:
+Configure in **Settings → Secrets and variables → Actions → Secrets**:
 
 | Name | Type |
 |---|---|
 | `GROQ_API_KEY` | Secret |
 | `GOOGLE_DOC_ID` | Secret |
-| `MCP_SERVER_URL` | Variable |
-| `EMAIL_ALIAS` | Variable |
+| `MCP_SERVER_URL` | Secret |
+| `EMAIL_ALIAS` | Secret |
 
 See [Deployment Plan](docs/deployment_plan.md) for full setup.
 

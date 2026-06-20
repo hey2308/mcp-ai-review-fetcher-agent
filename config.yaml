@@ -1,0 +1,24 @@
+# Groww Weekly Pulse AI Agent Configuration
+
+# Time window for reviews to fetch (in weeks)
+review_window_weeks: 10
+
+# Store details for Groww
+app_store_id: "1404871703"
+play_store_package: "com.nextbillion.groww"
+
+# Downstream Processing & Output limits
+max_themes: 5
+pulse_themes_displayed: 3
+max_words: 250
+
+# Phase 2 — Groq LLM configuration
+llm_provider: groq
+llm_model: llama-3.3-70b-versatile
+max_reviews_to_process: 1000
+llm_batch_size: 20
+llm_text_max_words: 50
+llm_max_rpm: 24
+llm_max_tpm: 10000
+llm_max_tokens_per_run: 90000
+

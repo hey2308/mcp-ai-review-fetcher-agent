@@ -1,0 +1,7 @@
+{
+  "mcp_server_url": "https://khyati-mcp-server.onrender.com",
+  "tools": [
+    "append_to_doc",
+    "create_email_draft"
+  ]
+}

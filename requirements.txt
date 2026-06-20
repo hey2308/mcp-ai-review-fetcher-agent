@@ -1,0 +1,5 @@
+pyyaml
+requests
+google-play-scraper
+groq
+python-dotenv

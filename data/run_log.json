@@ -1,0 +1,94 @@
+{
+  "run_id": "a0695c88-84d3-4415-8d91-a4c9a03c0117",
+  "phase": 5,
+  "started_at": "2026-06-20T04:42:11.601137+00:00",
+  "config": {
+    "review_window_weeks": 10,
+    "max_themes": 5,
+    "pulse_themes_displayed": 3,
+    "max_words": 250,
+    "email_alias": "khyatinagori8@gmail.com",
+    "mcp_server_url": "https://khyati-mcp-server.onrender.com",
+    "llm_provider": "groq",
+    "llm_model": "llama-3.3-70b-versatile",
+    "max_reviews_to_process": 1000
+  },
+  "steps": [
+    {
+      "step": "fetch_app_store_reviews",
+      "started_at": "2026-06-20T04:42:11.601137+00:00",
+      "completed_at": "2026-06-20T04:42:12.777681+00:00",
+      "status": "success",
+      "output_summary": "0 reviews fetched from App Store"
+    },
+    {
+      "step": "fetch_play_store_reviews",
+      "started_at": "2026-06-20T04:42:12.789440+00:00",
+      "completed_at": "2026-06-20T04:42:16.318554+00:00",
+      "status": "success",
+      "output_summary": "2000 reviews fetched from Play Store"
+    },
+    {
+      "step": "merge_and_deduplicate",
+      "started_at": "2026-06-20T04:42:16.322063+00:00",
+      "completed_at": "2026-06-20T04:42:16.370078+00:00",
+      "status": "success",
+      "output_summary": "Merged 2000 raw reviews, removed 970 duplicates, 1030 unique"
+    },
+    {
+      "step": "scrub_and_validate",
+      "started_at": "2026-06-20T04:42:16.370078+00:00",
+      "completed_at": "2026-06-20T04:42:16.445514+00:00",
+      "status": "success",
+      "output_summary": "Validated 422 clean reviews (608 discarded), saved reviews_raw.json"
+    },
+    {
+      "step": "classify_themes",
+      "started_at": "2026-06-20T04:42:16.451533+00:00",
+      "completed_at": "2026-06-20T04:42:16.558800+00:00",
+      "status": "success",
+      "output_summary": "Classified 422 reviews (pre-routed=141, offline fallback=281, pii_flagged=0)"
+    },
+    {
+      "step": "score_and_rank_themes",
+      "started_at": "2026-06-20T04:42:16.560962+00:00",
+      "completed_at": "2026-06-20T04:42:16.560962+00:00",
+      "status": "success",
+      "output_summary": "Ranked 5 themes; top: Performance & App Stability (303), Payments & Transactions (94), Portfolio & Statements (17)"
+    },
+    {
+      "step": "extract_quotes",
+      "started_at": "2026-06-20T04:42:16.560962+00:00",
+      "completed_at": "2026-06-20T04:42:16.577593+00:00",
+      "status": "success",
+      "output_summary": "Selected 3 verbatim quotes for featured themes"
+    },
+    {
+      "step": "generate_actions",
+      "started_at": "2026-06-20T04:42:16.577593+00:00",
+      "completed_at": "2026-06-20T04:42:16.595734+00:00",
+      "status": "success",
+      "output_summary": "Generated 3 action ideas, saved processed_signal.json"
+    },
+    {
+      "step": "assemble_pulse_note",
+      "started_at": "2026-06-20T04:42:16.595734+00:00",
+      "completed_at": "2026-06-20T04:42:16.645888+00:00",
+      "status": "success",
+      "output_summary": "Assembled pulse note (242 words), saved weekly_pulse.md"
+    },
+    {
+      "step": "validate_note",
+      "started_at": "2026-06-20T04:42:16.656042+00:00",
+      "completed_at": "2026-06-20T04:42:16.656548+00:00",
+      "status": "success",
+      "output_summary": "All note checks passed (242 words)"
+    }
+  ],
+  "completed_at": "2026-06-20T04:42:16.661157+00:00",
+  "final_status": "success",
+  "outputs": {
+    "dry_run": true,
+    "skip_publish": true
+  }
+}

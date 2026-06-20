@@ -124,11 +124,23 @@ After a successful run, check:
 
 ## Weekly Automation (GitHub Actions)
 
-The workflow `.github/workflows/weekly-pulse.yml` runs every **Monday at 06:00 UTC**.
+Production scheduling runs on **GitHub Actions** — not Render.
 
-Required repository secret: `GROQ_API_KEY`
+| Trigger | When |
+|---|---|
+| **Schedule** | Every Monday 06:00 UTC |
+| **Manual** | Actions → Weekly Groww Pulse → Run workflow |
 
-Manual trigger: GitHub → Actions → Weekly Groww Pulse → Run workflow
+Configure in **Settings → Secrets and variables → Actions**:
+
+| Name | Type |
+|---|---|
+| `GROQ_API_KEY` | Secret |
+| `GOOGLE_DOC_ID` | Secret |
+| `MCP_SERVER_URL` | Variable |
+| `EMAIL_ALIAS` | Variable |
+
+See [Deployment Plan](docs/deployment_plan.md) for full setup.
 
 ## Architecture
 

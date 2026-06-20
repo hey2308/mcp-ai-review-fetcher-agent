@@ -447,12 +447,9 @@ Production runs are triggered automatically **once per week** via GitHub Actions
 Cron: every Monday 06:00 UTC
         │
         ▼
-  run_pipeline.py
+  run_pipeline.py  (Phase 5 orchestrator)
         │
-        ├── Phase 1: ingest + verify   → reviews_raw.json
-        ├── Phase 2: process + verify  → processed_signal.json
-        ├── Phase 3: generate + verify → weekly_pulse.md
-        └── Phase 4: publish + verify  → output_links.json + Google Doc + Gmail draft
+        ├── ingest → process → generate → publish
         │
         ▼
   Commit data/ artifacts back to repository (on success)

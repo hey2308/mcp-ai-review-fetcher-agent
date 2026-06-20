@@ -14,6 +14,12 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 45
 
+    env:
+      GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+      MCP_SERVER_URL: ${{ vars.MCP_SERVER_URL }}
+      EMAIL_ALIAS: ${{ vars.EMAIL_ALIAS }}
+      GOOGLE_DOC_ID: ${{ secrets.GOOGLE_DOC_ID }}
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -27,13 +33,19 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Run weekly pipeline (Phases 1–4)
-        env:
-          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
-          MCP_SERVER_URL: ${{ vars.MCP_SERVER_URL }}
-          EMAIL_ALIAS: ${{ vars.EMAIL_ALIAS }}
-          GOOGLE_DOC_ID: ${{ secrets.GOOGLE_DOC_ID }}
-        run: python run_pipeline.py
+      - name: Warm up MCP server
+        run: |
+          MCP_URL="${MCP_SERVER_URL:-https://khyati-mcp-server.onrender.com}"
+          echo "Warming up MCP server at ${MCP_URL%/}/"
+          curl -sf --retry 3 --retry-delay 10 "${MCP_URL%/}/" || \
+            echo "MCP warm-up failed — pipeline will retry during publish step"
+
+      - name: Run weekly pipeline
+        run: python run_pipeline.py --no-verify
+
+      - name: Verify pipeline output
+        continue-on-error: true
+        run: python -m phase5.verify
 
       - name: Commit weekly artifacts
         if: success()

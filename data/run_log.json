@@ -1,7 +1,7 @@
 {
-  "run_id": "a0695c88-84d3-4415-8d91-a4c9a03c0117",
+  "run_id": "a5117541-f900-4205-a003-10006022457c",
   "phase": 5,
-  "started_at": "2026-06-20T04:42:11.601137+00:00",
+  "started_at": "2026-06-20T10:01:17.918345+00:00",
   "config": {
     "review_window_weeks": 10,
     "max_themes": 5,
@@ -16,79 +16,100 @@
   "steps": [
     {
       "step": "fetch_app_store_reviews",
-      "started_at": "2026-06-20T04:42:11.601137+00:00",
-      "completed_at": "2026-06-20T04:42:12.777681+00:00",
+      "started_at": "2026-06-20T10:01:17.918490+00:00",
+      "completed_at": "2026-06-20T10:01:19.069336+00:00",
       "status": "success",
-      "output_summary": "0 reviews fetched from App Store"
+      "output_summary": "500 reviews fetched from App Store"
     },
     {
       "step": "fetch_play_store_reviews",
-      "started_at": "2026-06-20T04:42:12.789440+00:00",
-      "completed_at": "2026-06-20T04:42:16.318554+00:00",
+      "started_at": "2026-06-20T10:01:19.069806+00:00",
+      "completed_at": "2026-06-20T10:01:21.579771+00:00",
       "status": "success",
       "output_summary": "2000 reviews fetched from Play Store"
     },
     {
       "step": "merge_and_deduplicate",
-      "started_at": "2026-06-20T04:42:16.322063+00:00",
-      "completed_at": "2026-06-20T04:42:16.370078+00:00",
+      "started_at": "2026-06-20T10:01:21.580091+00:00",
+      "completed_at": "2026-06-20T10:01:21.593276+00:00",
       "status": "success",
-      "output_summary": "Merged 2000 raw reviews, removed 970 duplicates, 1030 unique"
+      "output_summary": "Merged 2500 raw reviews, removed 1030 duplicates, 1470 unique"
     },
     {
       "step": "scrub_and_validate",
-      "started_at": "2026-06-20T04:42:16.370078+00:00",
-      "completed_at": "2026-06-20T04:42:16.445514+00:00",
+      "started_at": "2026-06-20T10:01:21.593502+00:00",
+      "completed_at": "2026-06-20T10:01:21.609193+00:00",
       "status": "success",
-      "output_summary": "Validated 422 clean reviews (608 discarded), saved reviews_raw.json"
+      "output_summary": "Validated 538 clean reviews (932 discarded), saved reviews_raw.json"
     },
     {
       "step": "classify_themes",
-      "started_at": "2026-06-20T04:42:16.451533+00:00",
-      "completed_at": "2026-06-20T04:42:16.558800+00:00",
+      "started_at": "2026-06-20T10:01:21.609408+00:00",
+      "completed_at": "2026-06-20T10:05:54.128686+00:00",
       "status": "success",
-      "output_summary": "Classified 422 reviews (pre-routed=141, offline fallback=281, pii_flagged=0)"
+      "output_summary": "Classified 538 reviews (pre-routed=173, groq=365 in 19 batches)"
     },
     {
       "step": "score_and_rank_themes",
-      "started_at": "2026-06-20T04:42:16.560962+00:00",
-      "completed_at": "2026-06-20T04:42:16.560962+00:00",
+      "started_at": "2026-06-20T10:05:54.129032+00:00",
+      "completed_at": "2026-06-20T10:05:54.129527+00:00",
       "status": "success",
-      "output_summary": "Ranked 5 themes; top: Performance & App Stability (303), Payments & Transactions (94), Portfolio & Statements (17)"
+      "output_summary": "Ranked 5 themes; top: Payments & Transactions (186), Performance & App Stability (115), Portfolio & Statements (92)"
     },
     {
       "step": "extract_quotes",
-      "started_at": "2026-06-20T04:42:16.560962+00:00",
-      "completed_at": "2026-06-20T04:42:16.577593+00:00",
+      "started_at": "2026-06-20T10:05:54.129772+00:00",
+      "completed_at": "2026-06-20T10:06:02.010538+00:00",
       "status": "success",
       "output_summary": "Selected 3 verbatim quotes for featured themes"
     },
     {
       "step": "generate_actions",
-      "started_at": "2026-06-20T04:42:16.577593+00:00",
-      "completed_at": "2026-06-20T04:42:16.595734+00:00",
+      "started_at": "2026-06-20T10:06:02.010899+00:00",
+      "completed_at": "2026-06-20T10:06:05.117267+00:00",
       "status": "success",
       "output_summary": "Generated 3 action ideas, saved processed_signal.json"
     },
     {
       "step": "assemble_pulse_note",
-      "started_at": "2026-06-20T04:42:16.595734+00:00",
-      "completed_at": "2026-06-20T04:42:16.645888+00:00",
+      "started_at": "2026-06-20T10:06:05.117506+00:00",
+      "completed_at": "2026-06-20T10:06:05.119921+00:00",
       "status": "success",
-      "output_summary": "Assembled pulse note (242 words), saved weekly_pulse.md"
+      "output_summary": "Assembled pulse note (245 words), saved weekly_pulse.md"
     },
     {
       "step": "validate_note",
-      "started_at": "2026-06-20T04:42:16.656042+00:00",
-      "completed_at": "2026-06-20T04:42:16.656548+00:00",
+      "started_at": "2026-06-20T10:06:05.120153+00:00",
+      "completed_at": "2026-06-20T10:06:05.120735+00:00",
       "status": "success",
-      "output_summary": "All note checks passed (242 words)"
+      "output_summary": "All note checks passed (245 words)"
+    },
+    {
+      "step": "create_google_doc",
+      "started_at": "2026-06-20T10:06:05.120975+00:00",
+      "completed_at": "2026-06-20T10:06:07.541853+00:00",
+      "status": "success",
+      "output_summary": "Appended pulse to Google Doc (Content appended to document)"
+    },
+    {
+      "step": "create_gmail_draft",
+      "started_at": "2026-06-20T10:06:07.542378+00:00",
+      "completed_at": "2026-06-20T10:06:08.451815+00:00",
+      "status": "success",
+      "output_summary": "Gmail draft created (ID: r7491959963774679638)"
+    },
+    {
+      "step": "write_output_links",
+      "started_at": "2026-06-20T10:06:08.452352+00:00",
+      "completed_at": "2026-06-20T10:06:08.452580+00:00",
+      "status": "success",
+      "output_summary": "Wrote data/output_links.json"
     }
   ],
-  "completed_at": "2026-06-20T04:42:16.661157+00:00",
+  "completed_at": "2026-06-20T10:06:08.452973+00:00",
   "final_status": "success",
   "outputs": {
-    "dry_run": true,
-    "skip_publish": true
+    "doc_url": "https://docs.google.com/document/d/1Vxf5vjn_cg3O1oYU8l22C26A3kIceMBUsOtMzjCaA6E/edit",
+    "draft_id": "r7491959963774679638"
   }
 }

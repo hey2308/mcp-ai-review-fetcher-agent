@@ -1,11 +1,29 @@
 {
   "week": "2026-W25",
-  "generated_at": "2026-06-20T04:42:16.577593+00:00",
-  "reviews_input_total": 422,
-  "reviews_processed": 422,
+  "generated_at": "2026-06-20T10:06:05.114353+00:00",
+  "reviews_input_total": 538,
+  "reviews_processed": 538,
   "classifications": [
     {
+      "review_id": "8258c223-9ace-4345-a92e-03201d9f7e7a",
+      "theme": "Payments & Transactions",
+      "sentiment_score": 1.0,
+      "source": "keyword"
+    },
+    {
+      "review_id": "e2fe25d7-bb43-4cf1-b8ac-f9f16e468bcc",
+      "theme": "Payments & Transactions",
+      "sentiment_score": 1.0,
+      "source": "keyword"
+    },
+    {
       "review_id": "b88c0b6f-2db9-447c-8f7e-5ac6a52ba4f7",
+      "theme": "Performance & App Stability",
+      "sentiment_score": -1.0,
+      "source": "keyword"
+    },
+    {
+      "review_id": "14199806780",
       "theme": "Performance & App Stability",
       "sentiment_score": -1.0,
       "source": "keyword"
@@ -18,6 +36,12 @@
     },
     {
       "review_id": "d7e790a6-7883-4706-8a2f-32fb85035a11",
+      "theme": "Payments & Transactions",
+      "sentiment_score": 1.0,
+      "source": "keyword"
+    },
+    {
+      "review_id": "14196371619",
       "theme": "Payments & Transactions",
       "sentiment_score": 1.0,
       "source": "keyword"
@@ -77,6 +101,12 @@
       "source": "keyword"
     },
     {
+      "review_id": "14192789075",
+      "theme": "Performance & App Stability",
+      "sentiment_score": -1.0,
+      "source": "keyword"
+    },
+    {
       "review_id": "3349eeb6-5822-460f-a0a2-6512b6b20a08",
       "theme": "Portfolio & Statements",
       "sentiment_score": 1.0,
@@ -107,8 +137,26 @@
       "source": "keyword"
     },
     {
+      "review_id": "14192003533",
+      "theme": "Performance & App Stability",
+      "sentiment_score": -1.0,
+      "source": "keyword"
+    },
+    {
+      "review_id": "14191979390",
+      "theme": "Performance & App Stability",
+      "sentiment_score": 1.0,
+      "source": "keyword"
+    },
+    {
       "review_id": "fc481690-b16f-4dd7-8617-92e89bc9a73b",
       "theme": "Payments & Transactions",
+      "sentiment_score": 1.0,
+      "source": "keyword"
+    },
+    {
+      "review_id": "14190757345",
+      "theme": "Portfolio & Statements",
       "sentiment_score": 1.0,
       "source": "keyword"
     },
@@ -131,6 +179,12 @@
       "source": "keyword"
     },
     {
+      "review_id": "14188803647",
+      "theme": "Payments & Transactions",
+      "sentiment_score": -0.5,
+      "source": "keyword"
+    },
+    {
       "review_id": "e01de142-1922-41bb-9115-88719958e325",
       "theme": "Performance & App Stability",
       "sentiment_score": -1.0,
@@ -140,6 +194,12 @@
       "review_id": "e1036920-6d82-49af-bc5c-3ba0b432180e",
       "theme": "Payments & Transactions",
       "sentiment_score": 0.5,
+      "source": "keyword"
+    },
+    {
+      "review_id": "14188361611",
+      "theme": "Portfolio & Statements",
+      "sentiment_score": -1.0,
       "source": "keyword"
     },
     {
@@ -167,6 +227,12 @@
       "source": "keyword"
     },
     {
+      "review_id": "14187582546",
+      "theme": "Payments & Transactions",
+      "sentiment_score": 1.0,
+      "source": "keyword"
+    },
+    {
       "review_id": "24385011-bd9a-4cb9-a459-fbe8c1fb5e0b",
       "theme": "Performance & App Stability",
       "sentiment_score": 1.0,
@@ -191,6 +257,12 @@
       "source": "keyword"
     },
     {
+      "review_id": "14185300556",
+      "theme": "Performance & App Stability",
+      "sentiment_score": -0.5,
+      "source": "keyword"
+    },
+    {
       "review_id": "83fab74b-4713-43fc-a5dc-77c1c4773e07",
       "theme": "Portfolio & Statements",
       "sentiment_score": 1.0,
@@ -209,6 +281,12 @@
       "source": "keyword"
     },
     {
+      "review_id": "14184590959",
+      "theme": "Payments & Transactions",
+      "sentiment_score": -1.0,
+      "source": "keyword"
+    },
+    {
       "review_id": "0cdf72eb-eaf2-4930-9d8d-25a26d0e9a34",
       "theme": "Payments & Transactions",
       "sentiment_score": 1.0,
@@ -222,6 +300,18 @@
     },
     {
       "review_id": "ff324771-4338-4ee8-b71a-fab3315de450",
+      "theme": "Payments & Transactions",
+      "sentiment_score": 1.0,
+      "source": "keyword"
+    },
+    {
+      "review_id": "14184313033",
+      "theme": "KYC & Verification",
+      "sentiment_score": 1.0,
+      "source": "keyword"
+    },
+    {
+      "review_id": "14184194650",
       "theme": "Payments & Transactions",
       "sentiment_score": 1.0,
       "source": "keyword"
@@ -245,6 +335,12 @@
       "source": "keyword"
     },
     {
+      "review_id": "14180612137",
+      "theme": "Payments & Transactions",
+      "sentiment_score": 1.0,
+      "source": "keyword"
+    },
+    {
       "review_id": "b819ab10-c54b-4ec7-88fe-167833faed71",
       "theme": "Payments & Transactions",
       "sentiment_score": -1.0,
@@ -254,6 +350,12 @@
       "review_id": "d0202dd6-cd88-412e-a1b5-ac4d8e7e91d7",
       "theme": "Payments & Transactions",
       "sentiment_score": 1.0,
+      "source": "keyword"
+    },
+    {
+      "review_id": "14178762680",
+      "theme": "Payments & Transactions",
+      "sentiment_score": -0.5,
       "source": "keyword"
     },
     {
@@ -287,6 +389,18 @@
       "source": "keyword"
     },
     {
+      "review_id": "14175904709",
+      "theme": "Performance & App Stability",
+      "sentiment_score": 1.0,
+      "source": "keyword"
+    },
+    {
+      "review_id": "14175805852",
+      "theme": "Payments & Transactions",
+      "sentiment_score": 1.0,
+      "source": "keyword"
+    },
+    {
       "review_id": "437ffb5f-a3da-4c20-a361-ba1bcc030dba",
       "theme": "Performance & App Stability",
       "sentiment_score": -1.0,
@@ -305,7 +419,19 @@
       "source": "keyword"
     },
     {
+      "review_id": "14174500632",
+      "theme": "Payments & Transactions",
+      "sentiment_score": 1.0,
+      "source": "keyword"
+    },
+    {
       "review_id": "e39d0fd8-fd44-414a-8dca-114721d17784",
+      "theme": "Payments & Transactions",
+      "sentiment_score": 1.0,
+      "source": "keyword"
+    },
+    {
+      "review_id": "14172921973",
       "theme": "Payments & Transactions",
       "sentiment_score": 1.0,
       "source": "keyword"
@@ -313,6 +439,12 @@
     {
       "review_id": "a93fd46f-b3cf-4b88-a45a-ea06caea07f3",
       "theme": "Onboarding & Account Setup",
+      "sentiment_score": 1.0,
+      "source": "keyword"
+    },
+    {
+      "review_id": "14171110398",
+      "theme": "Performance & App Stability",
       "sentiment_score": 1.0,
       "source": "keyword"
     },
@@ -353,6 +485,18 @@
       "source": "keyword"
     },
     {
+      "review_id": "14168997828",
+      "theme": "Payments & Transactions",
+      "sentiment_score": 1.0,
+      "source": "keyword"
+    },
+    {
+      "review_id": "14168906830",
+      "theme": "Payments & Transactions",
+      "sentiment_score": -1.0,
+      "source": "keyword"
+    },
+    {
       "review_id": "95a30395-ddd7-49de-a987-0f330044aafd",
       "theme": "Performance & App Stability",
       "sentiment_score": -1.0,
@@ -377,6 +521,18 @@
       "source": "keyword"
     },
     {
+      "review_id": "14168461947",
+      "theme": "Payments & Transactions",
+      "sentiment_score": 1.0,
+      "source": "keyword"
+    },
+    {
+      "review_id": "14168450035",
+      "theme": "Performance & App Stability",
+      "sentiment_score": 1.0,
+      "source": "keyword"
+    },
+    {
       "review_id": "71755cce-9a55-4a83-a116-3b2abfa989c0",
       "theme": "Payments & Transactions",
       "sentiment_score": 1.0,
@@ -395,6 +551,12 @@
       "source": "keyword"
     },
     {
+      "review_id": "14166494688",
+      "theme": "Payments & Transactions",
+      "sentiment_score": 1.0,
+      "source": "keyword"
+    },
+    {
       "review_id": "e028a4f5-99cf-4f3d-a7c8-da70b6c59fb1",
       "theme": "Performance & App Stability",
       "sentiment_score": 1.0,
@@ -404,6 +566,12 @@
       "review_id": "bb349514-02d9-43fd-aac9-38d3c81bdfce",
       "theme": "Payments & Transactions",
       "sentiment_score": -1.0,
+      "source": "keyword"
+    },
+    {
+      "review_id": "14165363628",
+      "theme": "Payments & Transactions",
+      "sentiment_score": 1.0,
       "source": "keyword"
     },
     {
@@ -419,8 +587,20 @@
       "source": "keyword"
     },
     {
+      "review_id": "14164809451",
+      "theme": "Payments & Transactions",
+      "sentiment_score": 1.0,
+      "source": "keyword"
+    },
+    {
       "review_id": "c537f337-89d1-47ce-9684-4756d4361b3c",
       "theme": "Portfolio & Statements",
+      "sentiment_score": 1.0,
+      "source": "keyword"
+    },
+    {
+      "review_id": "14164797534",
+      "theme": "Payments & Transactions",
       "sentiment_score": 1.0,
       "source": "keyword"
     },
@@ -434,6 +614,12 @@
       "review_id": "79438ab9-7e67-407b-8a8e-025aa2731a05",
       "theme": "Payments & Transactions",
       "sentiment_score": -1.0,
+      "source": "keyword"
+    },
+    {
+      "review_id": "14164718434",
+      "theme": "Performance & App Stability",
+      "sentiment_score": 1.0,
       "source": "keyword"
     },
     {
@@ -452,6 +638,18 @@
       "review_id": "a41dfb4b-7ba8-40f8-b385-52fdfdd61299",
       "theme": "Performance & App Stability",
       "sentiment_score": -1.0,
+      "source": "keyword"
+    },
+    {
+      "review_id": "14162047894",
+      "theme": "Payments & Transactions",
+      "sentiment_score": 1.0,
+      "source": "keyword"
+    },
+    {
+      "review_id": "14161969061",
+      "theme": "Payments & Transactions",
+      "sentiment_score": 1.0,
       "source": "keyword"
     },
     {
@@ -497,6 +695,12 @@
       "source": "keyword"
     },
     {
+      "review_id": "14161290095",
+      "theme": "Payments & Transactions",
+      "sentiment_score": 1.0,
+      "source": "keyword"
+    },
+    {
       "review_id": "18d21a9b-71e4-4737-bcec-98bc0dac592c",
       "theme": "Payments & Transactions",
       "sentiment_score": -1.0,
@@ -510,6 +714,24 @@
     },
     {
       "review_id": "ad2fd083-52c5-4e8a-a905-04c503d9205f",
+      "theme": "Payments & Transactions",
+      "sentiment_score": 1.0,
+      "source": "keyword"
+    },
+    {
+      "review_id": "14160886512",
+      "theme": "Onboarding & Account Setup",
+      "sentiment_score": 1.0,
+      "source": "keyword"
+    },
+    {
+      "review_id": "14160840645",
+      "theme": "Portfolio & Statements",
+      "sentiment_score": 1.0,
+      "source": "keyword"
+    },
+    {
+      "review_id": "14160748278",
       "theme": "Payments & Transactions",
       "sentiment_score": 1.0,
       "source": "keyword"
@@ -821,1765 +1043,2246 @@
       "source": "keyword"
     },
     {
-      "review_id": "ec388e81-00e2-4634-92a7-927e61345ea4",
-      "theme": "Performance & App Stability",
-      "sentiment_score": -0.5,
-      "source": "keyword"
-    },
-    {
-      "review_id": "6dbaf3e2-2ce7-489d-94d5-a505dfc00919",
+      "review_id": "35caab63-8a97-4679-b2a3-d89dfd475695",
       "theme": "Performance & App Stability",
       "sentiment_score": -1.0,
-      "source": "keyword"
+      "source": "groq"
     },
     {
-      "review_id": "64dfbea1-f062-4b65-bf8b-1d70cbe75873",
+      "review_id": "c42f112c-bd9e-40e9-b115-ae66c6993bf4",
+      "theme": "Payments & Transactions",
+      "sentiment_score": -1.0,
+      "source": "groq"
+    },
+    {
+      "review_id": "d0bf3b8b-1081-476f-b45c-77ef2fd20a8b",
+      "theme": "Portfolio & Statements",
+      "sentiment_score": -1.0,
+      "source": "groq"
+    },
+    {
+      "review_id": "6a2142ad-4409-4272-aec7-9ca6156c93da",
+      "theme": "Portfolio & Statements",
+      "sentiment_score": 1.0,
+      "source": "groq"
+    },
+    {
+      "review_id": "d5b511ec-a064-42ee-b600-1b2f02478c86",
+      "theme": "Payments & Transactions",
+      "sentiment_score": 1.0,
+      "source": "groq"
+    },
+    {
+      "review_id": "38d7a67d-6fc7-4099-b9a0-ff1fecd38f0a",
       "theme": "Performance & App Stability",
-      "sentiment_score": -1.0,
-      "source": "keyword"
+      "sentiment_score": -0.6,
+      "source": "groq"
     },
     {
-      "review_id": "610b9a8f-ca4d-4f62-b8f5-821744c48b25",
-      "theme": "KYC & Verification",
+      "review_id": "22fa42e8-82bd-40c2-9c8b-77d406828b7e",
+      "theme": "Payments & Transactions",
       "sentiment_score": -1.0,
-      "source": "keyword"
+      "source": "groq"
     },
     {
-      "review_id": "80c0e3d6-a7a8-4875-aa05-fdc3cbff5ed3",
-      "theme": "Performance & App Stability",
-      "sentiment_score": -1.0,
-      "source": "keyword"
+      "review_id": "dba63c86-36f8-43c5-80bf-01a154b067c7",
+      "theme": "Portfolio & Statements",
+      "sentiment_score": -0.6,
+      "source": "groq"
+    },
+    {
+      "review_id": "14199930192",
+      "theme": "Onboarding & Account Setup",
+      "sentiment_score": 1.0,
+      "source": "groq"
     },
     {
       "review_id": "b8d896fa-5291-4aab-b391-0d9905d6da5f",
+      "theme": "Payments & Transactions",
+      "sentiment_score": -1.0,
+      "source": "groq"
+    },
+    {
+      "review_id": "14199904450",
       "theme": "Performance & App Stability",
       "sentiment_score": -1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "f17e8455-0081-4302-ab7f-bcc566bd6149",
-      "theme": "Performance & App Stability",
+      "theme": "Onboarding & Account Setup",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
+    },
+    {
+      "review_id": "14199700456",
+      "theme": "Portfolio & Statements",
+      "sentiment_score": 1.0,
+      "source": "groq"
     },
     {
       "review_id": "f21c0afb-de4c-4ae8-b820-29cd9b91c401",
-      "theme": "Performance & App Stability",
+      "theme": "Onboarding & Account Setup",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "42103564-5130-430d-ba87-2432c15d3765",
-      "theme": "Performance & App Stability",
+      "theme": "Onboarding & Account Setup",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "75d0979b-8464-48b4-acd0-dd97e71fb630",
-      "theme": "Performance & App Stability",
+      "theme": "Portfolio & Statements",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
+    },
+    {
+      "review_id": "14198435447",
+      "theme": "Onboarding & Account Setup",
+      "sentiment_score": 1.0,
+      "source": "groq"
     },
     {
       "review_id": "7cb1722a-3b2d-4772-ae2d-5294b704ffc1",
-      "theme": "Performance & App Stability",
+      "theme": "Payments & Transactions",
       "sentiment_score": -1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
+    },
+    {
+      "review_id": "14198017406",
+      "theme": "Portfolio & Statements",
+      "sentiment_score": 1.0,
+      "source": "groq"
+    },
+    {
+      "review_id": "14197868799",
+      "theme": "Onboarding & Account Setup",
+      "sentiment_score": 1.0,
+      "source": "groq"
+    },
+    {
+      "review_id": "14197670150",
+      "theme": "Onboarding & Account Setup",
+      "sentiment_score": 1.0,
+      "source": "groq"
     },
     {
       "review_id": "da6e360d-c28c-490d-8a8a-a68a7290ca98",
-      "theme": "Performance & App Stability",
+      "theme": "Payments & Transactions",
       "sentiment_score": -1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "d4a1e90d-c582-4db1-b31a-1c1f68eba64f",
-      "theme": "Performance & App Stability",
+      "theme": "Onboarding & Account Setup",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
+    },
+    {
+      "review_id": "14196974957",
+      "theme": "Onboarding & Account Setup",
+      "sentiment_score": 1.0,
+      "source": "groq"
+    },
+    {
+      "review_id": "14196629281",
+      "theme": "Onboarding & Account Setup",
+      "sentiment_score": 1.0,
+      "source": "groq"
     },
     {
       "review_id": "603177bb-0244-4b3b-8c97-9e8d680f7190",
-      "theme": "Performance & App Stability",
+      "theme": "Portfolio & Statements",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "ecfcb86a-a1b5-4102-bb61-4df2a6ddd569",
-      "theme": "Performance & App Stability",
+      "theme": "Payments & Transactions",
       "sentiment_score": -1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "512d04ad-41fe-4d19-a303-c727b9f661a5",
-      "theme": "Performance & App Stability",
+      "theme": "Payments & Transactions",
       "sentiment_score": -1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "821da027-b8d6-4622-a721-6f54821d3089",
-      "theme": "Performance & App Stability",
+      "theme": "KYC & Verification",
       "sentiment_score": -1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "56c61ebd-4966-4bbb-a216-a3fcb30cfd15",
-      "theme": "Performance & App Stability",
+      "theme": "Onboarding & Account Setup",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
+    },
+    {
+      "review_id": "14196160714",
+      "theme": "Onboarding & Account Setup",
+      "sentiment_score": 1.0,
+      "source": "groq"
     },
     {
       "review_id": "2637466f-344b-4cb5-b760-224dd3fff785",
-      "theme": "Performance & App Stability",
+      "theme": "Onboarding & Account Setup",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
+    },
+    {
+      "review_id": "14195962888",
+      "theme": "Onboarding & Account Setup",
+      "sentiment_score": 1.0,
+      "source": "groq"
+    },
+    {
+      "review_id": "14195942460",
+      "theme": "Portfolio & Statements",
+      "sentiment_score": 1.0,
+      "source": "groq"
     },
     {
       "review_id": "e66a19b3-660f-44e3-85e6-c3d93b83551e",
-      "theme": "Performance & App Stability",
+      "theme": "Onboarding & Account Setup",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "23f187fd-2570-4c3d-89ce-0dcaef1b1b6e",
-      "theme": "Performance & App Stability",
+      "theme": "Onboarding & Account Setup",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "2b73b1ca-eb58-458a-a2b0-d5de78a32981",
-      "theme": "Performance & App Stability",
+      "theme": "Payments & Transactions",
       "sentiment_score": -1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "4de4a660-f920-4aa4-a74c-d124e3626910",
-      "theme": "Performance & App Stability",
+      "theme": "Portfolio & Statements",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
+    },
+    {
+      "review_id": "14194232225",
+      "theme": "Onboarding & Account Setup",
+      "sentiment_score": 0.5,
+      "source": "groq"
+    },
+    {
+      "review_id": "14194232015",
+      "theme": "Onboarding & Account Setup",
+      "sentiment_score": 1.0,
+      "source": "groq"
     },
     {
       "review_id": "121b019c-effe-4bf5-ad19-b66c84a5aa62",
-      "theme": "Performance & App Stability",
+      "theme": "Onboarding & Account Setup",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
+    },
+    {
+      "review_id": "14194049606",
+      "theme": "Onboarding & Account Setup",
+      "sentiment_score": -1.0,
+      "source": "groq"
     },
     {
       "review_id": "db3a4b22-3a7d-4822-90a3-f64646c73293",
+      "theme": "Payments & Transactions",
+      "sentiment_score": 1.0,
+      "source": "groq"
+    },
+    {
+      "review_id": "14193753676",
+      "theme": "Onboarding & Account Setup",
+      "sentiment_score": 1.0,
+      "source": "groq"
+    },
+    {
+      "review_id": "14193561791",
       "theme": "Performance & App Stability",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "baaa3179-e248-401f-bcf5-2a174d262e2e",
-      "theme": "Performance & App Stability",
+      "theme": "Payments & Transactions",
       "sentiment_score": -1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
+    },
+    {
+      "review_id": "14193433820",
+      "theme": "Onboarding & Account Setup",
+      "sentiment_score": 0.5,
+      "source": "groq"
     },
     {
       "review_id": "31239556-002d-4a5e-895a-3e7bfcc26363",
-      "theme": "Performance & App Stability",
+      "theme": "KYC & Verification",
       "sentiment_score": -1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "2e2f8ebe-f395-4d5e-928c-7959498488bd",
-      "theme": "Performance & App Stability",
+      "theme": "Onboarding & Account Setup",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "238d8bf6-25fc-4ae9-9ae2-7f32a74d65b7",
-      "theme": "Performance & App Stability",
+      "theme": "Onboarding & Account Setup",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "5267a9b1-605b-4c59-97e9-8851a6d7afb0",
-      "theme": "Performance & App Stability",
+      "theme": "Payments & Transactions",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "0c4dd75b-68d1-4a2f-a971-78ac9a1887d7",
-      "theme": "Performance & App Stability",
+      "theme": "Onboarding & Account Setup",
       "sentiment_score": 0.5,
-      "source": "keyword_fallback"
+      "source": "groq"
+    },
+    {
+      "review_id": "14192839673",
+      "theme": "Onboarding & Account Setup",
+      "sentiment_score": 1.0,
+      "source": "groq"
     },
     {
       "review_id": "8284a9b8-10eb-4d15-90ad-a29d42ec1605",
-      "theme": "Performance & App Stability",
+      "theme": "Portfolio & Statements",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "e87aeee5-8e3c-40ac-9722-ed4cb981b015",
       "theme": "Performance & App Stability",
       "sentiment_score": -1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "a5e2a2c8-9c7f-4951-bbda-3b9e545ef25a",
       "theme": "Performance & App Stability",
       "sentiment_score": -1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "ecf52e3e-f3eb-434c-a2dc-0cb921cbd01e",
       "theme": "Performance & App Stability",
       "sentiment_score": -1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "3d930a09-b6cf-4c8e-aca9-528c98af3366",
-      "theme": "Performance & App Stability",
+      "theme": "Payments & Transactions",
       "sentiment_score": -1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "a2a14572-0613-4d7e-b52c-33f52700ce4d",
-      "theme": "Performance & App Stability",
+      "theme": "Onboarding & Account Setup",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
+    },
+    {
+      "review_id": "14192365355",
+      "theme": "Onboarding & Account Setup",
+      "sentiment_score": 1.0,
+      "source": "groq"
+    },
+    {
+      "review_id": "14192338328",
+      "theme": "Onboarding & Account Setup",
+      "sentiment_score": 1.0,
+      "source": "groq"
     },
     {
       "review_id": "39ac1406-fc81-4539-ae6e-560c0a88fc95",
-      "theme": "Portfolio & Statements",
+      "theme": "Performance & App Stability",
       "sentiment_score": -1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "ebee8577-304c-4407-b238-788521236091",
-      "theme": "Performance & App Stability",
+      "theme": "Portfolio & Statements",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
+    },
+    {
+      "review_id": "14192289114",
+      "theme": "Onboarding & Account Setup",
+      "sentiment_score": 1.0,
+      "source": "groq"
     },
     {
       "review_id": "4955ab2e-ba8a-428c-b142-36670e12fbb2",
-      "theme": "Performance & App Stability",
+      "theme": "Onboarding & Account Setup",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
+    },
+    {
+      "review_id": "14192229888",
+      "theme": "Portfolio & Statements",
+      "sentiment_score": 1.0,
+      "source": "groq"
     },
     {
       "review_id": "02fe89a9-4bf0-440b-8102-04796a92641f",
       "theme": "Performance & App Stability",
-      "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "sentiment_score": 0.9,
+      "source": "groq"
     },
     {
       "review_id": "cc56b0d5-a12a-4d50-8e1d-dc5fdee00fbb",
-      "theme": "Performance & App Stability",
+      "theme": "Onboarding & Account Setup",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "eaae3cff-4a9b-4e0c-95d8-13d71d372c1f",
-      "theme": "Performance & App Stability",
+      "theme": "Onboarding & Account Setup",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "1906bd1d-fe88-4be6-bff5-6f10ead7637a",
-      "theme": "Performance & App Stability",
+      "theme": "Onboarding & Account Setup",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
+    },
+    {
+      "review_id": "14191927053",
+      "theme": "Onboarding & Account Setup",
+      "sentiment_score": 1.0,
+      "source": "groq"
+    },
+    {
+      "review_id": "14191762219",
+      "theme": "Onboarding & Account Setup",
+      "sentiment_score": 1.0,
+      "source": "groq"
     },
     {
       "review_id": "4d4bb201-e4a0-4346-9bc1-5408c0839a3b",
-      "theme": "Performance & App Stability",
+      "theme": "Onboarding & Account Setup",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "4f3f69bb-39e1-4832-a9fc-3c7cf7b9e47a",
-      "theme": "Performance & App Stability",
+      "theme": "Onboarding & Account Setup",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "3555a827-4079-4554-87ae-bdc56ce4a061",
-      "theme": "Performance & App Stability",
+      "theme": "Onboarding & Account Setup",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "c407ccd8-d791-4ec2-9a9c-f5378765f829",
-      "theme": "Performance & App Stability",
+      "theme": "Onboarding & Account Setup",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "7face20f-dabb-42b9-9fd4-6e19f1afbd42",
-      "theme": "Performance & App Stability",
+      "theme": "Onboarding & Account Setup",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
+    },
+    {
+      "review_id": "14189915415",
+      "theme": "Performance & App Stability",
+      "sentiment_score": -1.0,
+      "source": "groq"
     },
     {
       "review_id": "5f8676ce-8e3e-470a-ad93-10c19eeac725",
-      "theme": "Performance & App Stability",
+      "theme": "Onboarding & Account Setup",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "0136558f-ef2b-4fe5-8bde-9a9d88889c4e",
-      "theme": "Performance & App Stability",
+      "theme": "Payments & Transactions",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "150ee373-915c-475e-ae17-0da88823581b",
-      "theme": "Performance & App Stability",
+      "theme": "Onboarding & Account Setup",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "6ef6c212-5e6b-4120-aa4b-7fbecfadf1de",
-      "theme": "Performance & App Stability",
+      "theme": "Portfolio & Statements",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "e7e2b49f-696d-4a79-8e0f-ba20704da59a",
-      "theme": "Performance & App Stability",
-      "sentiment_score": -0.5,
-      "source": "keyword_fallback"
+      "theme": "Payments & Transactions",
+      "sentiment_score": -0.6,
+      "source": "groq"
+    },
+    {
+      "review_id": "14188311220",
+      "theme": "Portfolio & Statements",
+      "sentiment_score": 1.0,
+      "source": "groq"
+    },
+    {
+      "review_id": "14188305553",
+      "theme": "Onboarding & Account Setup",
+      "sentiment_score": 1.0,
+      "source": "groq"
     },
     {
       "review_id": "b30b7dfb-e7f0-4e56-a63f-f2d10e0617b5",
-      "theme": "Performance & App Stability",
+      "theme": "Portfolio & Statements",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "59a2f685-5261-4d31-95ae-cc11c70b6b61",
-      "theme": "Performance & App Stability",
+      "theme": "Portfolio & Statements",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "d9b2afa3-9aec-469e-b151-e4fba43fbbfa",
-      "theme": "Performance & App Stability",
+      "theme": "Onboarding & Account Setup",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "7cc63013-fe20-4f1c-b107-42ff25bf9d34",
       "theme": "Performance & App Stability",
       "sentiment_score": 0.5,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "a3f25f3d-e314-4fa0-a2d6-74f1606bdcca",
-      "theme": "Performance & App Stability",
+      "theme": "Portfolio & Statements",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "c55aa16c-ba69-437a-8678-b497c99c0eb6",
-      "theme": "Performance & App Stability",
+      "theme": "Portfolio & Statements",
       "sentiment_score": 0.5,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "b98eaa34-f7c3-4b02-8121-26b6ffd53d0d",
-      "theme": "Performance & App Stability",
+      "theme": "Payments & Transactions",
       "sentiment_score": -1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "9b86e0d6-286f-41f7-a0b6-1315bf926a64",
-      "theme": "Performance & App Stability",
+      "theme": "Portfolio & Statements",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "b6ec409c-b5dc-468e-a996-d046b3a8d3b7",
-      "theme": "Performance & App Stability",
+      "theme": "Payments & Transactions",
       "sentiment_score": -1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "227ff1c3-0e8e-4db6-be47-ca8bc6eeaab5",
       "theme": "Performance & App Stability",
       "sentiment_score": -1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "48f60983-5401-432b-a3a3-100e7aaa3f6c",
-      "theme": "Performance & App Stability",
+      "theme": "Portfolio & Statements",
       "sentiment_score": -1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
+    },
+    {
+      "review_id": "14185964904",
+      "theme": "Onboarding & Account Setup",
+      "sentiment_score": 1.0,
+      "source": "groq"
     },
     {
       "review_id": "215b03b6-1c2f-4726-bda1-83ce3a5d0798",
       "theme": "Performance & App Stability",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "28386ceb-84af-4a67-b42a-d75053487e39",
-      "theme": "Performance & App Stability",
+      "theme": "Onboarding & Account Setup",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "481515cb-7a0a-4d37-9bde-31b7b059a01b",
-      "theme": "Performance & App Stability",
+      "theme": "Portfolio & Statements",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "2440d773-24ac-421b-b60b-583c12c9836d",
       "theme": "Performance & App Stability",
       "sentiment_score": -1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "299e690b-1b58-4ff1-bf28-d403f4ed8f7b",
       "theme": "Performance & App Stability",
       "sentiment_score": -1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "8824537e-c474-46eb-afb4-0036159c77ad",
-      "theme": "Performance & App Stability",
+      "theme": "Onboarding & Account Setup",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "b915cac7-98e8-4319-9842-d4a44b93c932",
-      "theme": "Performance & App Stability",
+      "theme": "Onboarding & Account Setup",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
+    },
+    {
+      "review_id": "14184825148",
+      "theme": "Onboarding & Account Setup",
+      "sentiment_score": 1.0,
+      "source": "groq"
     },
     {
       "review_id": "cb7355ff-e91a-454d-85cd-f1d914062a35",
-      "theme": "Performance & App Stability",
-      "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "theme": "Portfolio & Statements",
+      "sentiment_score": 0.9,
+      "source": "groq"
     },
     {
       "review_id": "4d57d309-a816-437d-9fbb-2d0df9766106",
-      "theme": "Performance & App Stability",
+      "theme": "Payments & Transactions",
       "sentiment_score": -1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "75d8a7e0-1b22-4080-92a8-7daf8cf87103",
-      "theme": "Performance & App Stability",
+      "theme": "Onboarding & Account Setup",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "c1a4abf0-0d98-42bd-ad84-9cdac3c23f34",
-      "theme": "Performance & App Stability",
+      "theme": "Onboarding & Account Setup",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "a8a835d1-5be6-4375-bf23-7d1087fd5cd5",
       "theme": "Performance & App Stability",
       "sentiment_score": -1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
+    },
+    {
+      "review_id": "14184465102",
+      "theme": "Onboarding & Account Setup",
+      "sentiment_score": 1.0,
+      "source": "groq"
     },
     {
       "review_id": "82485e5d-b24e-43d9-ab2d-020869aae44b",
-      "theme": "Performance & App Stability",
+      "theme": "Onboarding & Account Setup",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "1558c5d9-1362-488d-a700-49337de4668b",
       "theme": "Performance & App Stability",
-      "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "sentiment_score": 0.9,
+      "source": "groq"
     },
     {
       "review_id": "cc453b37-f178-4e8d-b73e-7eae59e5aa9b",
       "theme": "Performance & App Stability",
       "sentiment_score": -1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
+    },
+    {
+      "review_id": "14184351926",
+      "theme": "Onboarding & Account Setup",
+      "sentiment_score": 1.0,
+      "source": "groq"
     },
     {
       "review_id": "7a286966-d5f4-451f-99f2-f386f8b2df85",
-      "theme": "Performance & App Stability",
+      "theme": "Onboarding & Account Setup",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
+    },
+    {
+      "review_id": "14184291515",
+      "theme": "Onboarding & Account Setup",
+      "sentiment_score": 0.6,
+      "source": "groq"
     },
     {
       "review_id": "4b96b0b0-85f1-44aa-ba59-95cac6fbeb9e",
-      "theme": "Performance & App Stability",
-      "sentiment_score": 0.5,
-      "source": "keyword_fallback"
+      "theme": "Onboarding & Account Setup",
+      "sentiment_score": 0.6,
+      "source": "groq"
+    },
+    {
+      "review_id": "14184246375",
+      "theme": "Onboarding & Account Setup",
+      "sentiment_score": 1.0,
+      "source": "groq"
     },
     {
       "review_id": "eb30bc9a-d4f8-4990-b39c-cdf0f7fcdf3a",
       "theme": "Performance & App Stability",
       "sentiment_score": 0.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "90e37d88-3f47-4e60-8e6d-c585bfa35b50",
-      "theme": "Performance & App Stability",
+      "theme": "Onboarding & Account Setup",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
+    },
+    {
+      "review_id": "14183812530",
+      "theme": "Onboarding & Account Setup",
+      "sentiment_score": 1.0,
+      "source": "groq"
     },
     {
       "review_id": "c3adcf4d-655b-4660-ac86-a6414aae6166",
-      "theme": "Performance & App Stability",
+      "theme": "Payments & Transactions",
       "sentiment_score": -1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "732df71a-2a7c-43f7-a4d9-b9589f9bb249",
-      "theme": "Performance & App Stability",
+      "theme": "Portfolio & Statements",
       "sentiment_score": 0.5,
-      "source": "keyword_fallback"
+      "source": "groq"
+    },
+    {
+      "review_id": "14181983862",
+      "theme": "Onboarding & Account Setup",
+      "sentiment_score": 1.0,
+      "source": "groq"
     },
     {
       "review_id": "94584ed2-d5cb-4a76-b1ef-df0c28f5847d",
-      "theme": "Performance & App Stability",
+      "theme": "KYC & Verification",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "5c4c8dfa-c863-4fb5-8012-153cfb47ae6b",
-      "theme": "Performance & App Stability",
+      "theme": "Onboarding & Account Setup",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "bdaeb398-dc84-4c0d-8984-b9d9d6f86f62",
-      "theme": "Performance & App Stability",
+      "theme": "Onboarding & Account Setup",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
+    },
+    {
+      "review_id": "14180920199",
+      "theme": "Payments & Transactions",
+      "sentiment_score": 1.0,
+      "source": "groq"
+    },
+    {
+      "review_id": "14180848210",
+      "theme": "Onboarding & Account Setup",
+      "sentiment_score": 1.0,
+      "source": "groq"
     },
     {
       "review_id": "da6df92a-18eb-477a-ba7e-244846db2a03",
       "theme": "Performance & App Stability",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "bc29f670-c9a5-4c23-9e7d-e8cd9c70719b",
       "theme": "Performance & App Stability",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "1175c91f-a01f-45dd-abbc-f1739c7619f2",
-      "theme": "Performance & App Stability",
+      "theme": "Onboarding & Account Setup",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "ed27c174-4ed0-4398-a8ba-3fe185daae7c",
-      "theme": "Performance & App Stability",
+      "theme": "Onboarding & Account Setup",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "7dff3a46-be46-4d03-9270-e341bfa9d864",
-      "theme": "Performance & App Stability",
+      "theme": "Onboarding & Account Setup",
       "sentiment_score": 0.5,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "624bdb14-cce3-47b6-bd06-0f81eb7f31c7",
-      "theme": "Performance & App Stability",
+      "theme": "Onboarding & Account Setup",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "f4382f79-1005-424f-be85-260ec07f69ec",
-      "theme": "Performance & App Stability",
-      "sentiment_score": -0.5,
-      "source": "keyword_fallback"
+      "theme": "Payments & Transactions",
+      "sentiment_score": -0.7,
+      "source": "groq"
+    },
+    {
+      "review_id": "14177237988",
+      "theme": "Onboarding & Account Setup",
+      "sentiment_score": 1.0,
+      "source": "groq"
     },
     {
       "review_id": "b2f61241-a8ac-4408-a806-c86fcce2ca94",
-      "theme": "Performance & App Stability",
+      "theme": "Portfolio & Statements",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "2caaf6f8-fe38-4065-9595-b6c2d996f5f5",
-      "theme": "Performance & App Stability",
+      "theme": "Onboarding & Account Setup",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
+    },
+    {
+      "review_id": "14176738211",
+      "theme": "Onboarding & Account Setup",
+      "sentiment_score": 1.0,
+      "source": "groq"
     },
     {
       "review_id": "4e7f81fe-a85d-45b0-b6d9-e4c90b53fa1e",
       "theme": "Performance & App Stability",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
+    },
+    {
+      "review_id": "14176625934",
+      "theme": "Performance & App Stability",
+      "sentiment_score": 1.0,
+      "source": "groq"
+    },
+    {
+      "review_id": "14176553598",
+      "theme": "Onboarding & Account Setup",
+      "sentiment_score": 1.0,
+      "source": "groq"
     },
     {
       "review_id": "0f6c04cf-e273-4303-9970-c33ff777828c",
-      "theme": "Performance & App Stability",
+      "theme": "Onboarding & Account Setup",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "7a2c683d-46bf-4608-829e-ab91edc0c168",
       "theme": "Performance & App Stability",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "41778c28-b2c3-4433-aa2d-47c40786581e",
       "theme": "Performance & App Stability",
-      "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "sentiment_score": 0.9,
+      "source": "groq"
     },
     {
       "review_id": "39fa5693-ae77-4cd5-8a1b-95287f96dce4",
-      "theme": "Performance & App Stability",
+      "theme": "Onboarding & Account Setup",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "87fcd6f1-1a1e-4cdd-a5c9-62cd43b81207",
-      "theme": "Performance & App Stability",
+      "theme": "Payments & Transactions",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "b0575ecc-93c0-4552-b043-9f7d97be1e0d",
-      "theme": "Performance & App Stability",
+      "theme": "Payments & Transactions",
       "sentiment_score": -1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
+    },
+    {
+      "review_id": "14174758923",
+      "theme": "Portfolio & Statements",
+      "sentiment_score": 1.0,
+      "source": "groq"
+    },
+    {
+      "review_id": "14174211373",
+      "theme": "Performance & App Stability",
+      "sentiment_score": 1.0,
+      "source": "groq"
     },
     {
       "review_id": "f6a88232-8db0-4fbe-86e7-00ee9700550d",
       "theme": "Performance & App Stability",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
+    },
+    {
+      "review_id": "14173615721",
+      "theme": "Onboarding & Account Setup",
+      "sentiment_score": 1.0,
+      "source": "groq"
+    },
+    {
+      "review_id": "14173528495",
+      "theme": "Onboarding & Account Setup",
+      "sentiment_score": 1.0,
+      "source": "groq"
     },
     {
       "review_id": "1def61d8-03c3-4443-b618-e06b3ae329fd",
       "theme": "Performance & App Stability",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
+    },
+    {
+      "review_id": "14173099408",
+      "theme": "Portfolio & Statements",
+      "sentiment_score": 1.0,
+      "source": "groq"
     },
     {
       "review_id": "69b371a9-bc11-4df4-a9e7-4c6ef74d6a21",
       "theme": "Performance & App Stability",
-      "sentiment_score": 0.5,
-      "source": "keyword_fallback"
+      "sentiment_score": 0.4,
+      "source": "groq"
+    },
+    {
+      "review_id": "14172919047",
+      "theme": "Onboarding & Account Setup",
+      "sentiment_score": 1.0,
+      "source": "groq"
+    },
+    {
+      "review_id": "14172871413",
+      "theme": "Performance & App Stability",
+      "sentiment_score": 1.0,
+      "source": "groq"
     },
     {
       "review_id": "5c62dd5f-6365-47f5-a331-5bb04ae0debb",
       "theme": "Performance & App Stability",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "49b4ac6a-368c-4f89-9686-a7c97c335843",
-      "theme": "Performance & App Stability",
+      "theme": "Portfolio & Statements",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "5871e368-5126-449b-931b-e66ca02c058b",
-      "theme": "Performance & App Stability",
+      "theme": "Onboarding & Account Setup",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
+    },
+    {
+      "review_id": "14172708528",
+      "theme": "Portfolio & Statements",
+      "sentiment_score": 1.0,
+      "source": "groq"
     },
     {
       "review_id": "f5c642cf-ef14-48c7-9df5-907b9b59e374",
-      "theme": "Performance & App Stability",
+      "theme": "Payments & Transactions",
       "sentiment_score": -1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "f1971948-b207-4b25-9c68-c52d4bd5985c",
       "theme": "Performance & App Stability",
       "sentiment_score": 0.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "fcc701cd-8939-4894-81c0-c472b99b04ab",
       "theme": "Performance & App Stability",
       "sentiment_score": 0.5,
-      "source": "keyword_fallback"
+      "source": "groq"
+    },
+    {
+      "review_id": "14172563511",
+      "theme": "Onboarding & Account Setup",
+      "sentiment_score": 1.0,
+      "source": "groq"
+    },
+    {
+      "review_id": "14172539139",
+      "theme": "Portfolio & Statements",
+      "sentiment_score": 0.0,
+      "source": "groq"
+    },
+    {
+      "review_id": "14172520433",
+      "theme": "Portfolio & Statements",
+      "sentiment_score": 1.0,
+      "source": "groq"
     },
     {
       "review_id": "68587343-4b19-4088-8382-3d180dbb0683",
-      "theme": "Performance & App Stability",
+      "theme": "Portfolio & Statements",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "c8718da3-3d66-4e88-b149-b27e2e702368",
-      "theme": "Performance & App Stability",
+      "theme": "Onboarding & Account Setup",
       "sentiment_score": 0.5,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "47306c5b-8e62-4502-9a78-3d14b101f715",
       "theme": "Performance & App Stability",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "ba355a54-1f82-4e9b-af07-29e0cbb42755",
-      "theme": "Performance & App Stability",
+      "theme": "Payments & Transactions",
       "sentiment_score": -0.5,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "29ee3cf6-3268-48a8-8d84-2a010eb66ea9",
-      "theme": "Performance & App Stability",
+      "theme": "Portfolio & Statements",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
+    },
+    {
+      "review_id": "14172384134",
+      "theme": "Portfolio & Statements",
+      "sentiment_score": 1.0,
+      "source": "groq"
+    },
+    {
+      "review_id": "14172360069",
+      "theme": "Onboarding & Account Setup",
+      "sentiment_score": 1.0,
+      "source": "groq"
+    },
+    {
+      "review_id": "14172359157",
+      "theme": "Portfolio & Statements",
+      "sentiment_score": 1.0,
+      "source": "groq"
     },
     {
       "review_id": "8e88e778-53dd-4ac9-8918-d842ea0fbf15",
       "theme": "Performance & App Stability",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "0685583c-3a1c-4585-9750-826bc2022145",
-      "theme": "Performance & App Stability",
+      "theme": "Onboarding & Account Setup",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "cea59836-63b2-4f25-8c1f-412ff05ca7a7",
+      "theme": "Onboarding & Account Setup",
+      "sentiment_score": 1.0,
+      "source": "groq"
+    },
+    {
+      "review_id": "14170881946",
       "theme": "Performance & App Stability",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
+    },
+    {
+      "review_id": "14170852392",
+      "theme": "Performance & App Stability",
+      "sentiment_score": 0.0,
+      "source": "groq"
     },
     {
       "review_id": "c585e278-13be-42fb-a148-45afb3fa51c7",
-      "theme": "Performance & App Stability",
+      "theme": "Portfolio & Statements",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "b9222f25-71ad-4926-a24e-575dc210e499",
       "theme": "Performance & App Stability",
       "sentiment_score": -1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "05982b9c-ef1b-4091-8208-4a81ce61219c",
       "theme": "Performance & App Stability",
       "sentiment_score": 0.5,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "da96e6ad-f83a-4f65-9fd6-700fe6e0edfd",
       "theme": "Payments & Transactions",
       "sentiment_score": -1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
+    },
+    {
+      "review_id": "14169332817",
+      "theme": "Portfolio & Statements",
+      "sentiment_score": 1.0,
+      "source": "groq"
     },
     {
       "review_id": "82cc919f-db9c-4a75-a022-3d3aa7540bea",
-      "theme": "Performance & App Stability",
+      "theme": "Payments & Transactions",
       "sentiment_score": -1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
+    },
+    {
+      "review_id": "14169235122",
+      "theme": "Onboarding & Account Setup",
+      "sentiment_score": 1.0,
+      "source": "groq"
     },
     {
       "review_id": "0500256e-bbd2-46a3-8cb0-fa1e54f83984",
-      "theme": "Performance & App Stability",
+      "theme": "Payments & Transactions",
       "sentiment_score": -1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
+    },
+    {
+      "review_id": "14169093725",
+      "theme": "Onboarding & Account Setup",
+      "sentiment_score": 1.0,
+      "source": "groq"
     },
     {
       "review_id": "b84e54ab-9ae2-47ad-a0b4-a576f36a5622",
-      "theme": "Performance & App Stability",
+      "theme": "Payments & Transactions",
       "sentiment_score": -1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "750d43e1-abf1-43f2-948e-50970b4eb591",
-      "theme": "Performance & App Stability",
+      "theme": "Payments & Transactions",
       "sentiment_score": -1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "a05b1a5f-3137-4582-9bce-71c410a41283",
       "theme": "Performance & App Stability",
       "sentiment_score": -1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "113b58c8-19fb-454e-b9aa-95b31dcbe4d0",
       "theme": "Performance & App Stability",
       "sentiment_score": 0.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "615fa719-a85f-4f08-965d-10b678f56b47",
-      "theme": "Performance & App Stability",
+      "theme": "Portfolio & Statements",
       "sentiment_score": 0.5,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "dd3eb722-d722-45be-80fe-7ce642257ef4",
-      "theme": "Performance & App Stability",
+      "theme": "Portfolio & Statements",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "3a6e04ab-c092-4bab-972b-df70eaeecaad",
-      "theme": "Performance & App Stability",
+      "theme": "Portfolio & Statements",
       "sentiment_score": 0.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "73d1a169-36b9-4d54-9f6a-b737d4ba17b5",
-      "theme": "Performance & App Stability",
+      "theme": "Onboarding & Account Setup",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "9374e8f8-1110-4b7d-b1da-97b8fcbe33bd",
-      "theme": "Performance & App Stability",
+      "theme": "Payments & Transactions",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "f97f20f1-1a13-4f4f-8e53-7323ac0fb11e",
-      "theme": "Performance & App Stability",
+      "theme": "Onboarding & Account Setup",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
+    },
+    {
+      "review_id": "14168551673",
+      "theme": "Onboarding & Account Setup",
+      "sentiment_score": 1.0,
+      "source": "groq"
+    },
+    {
+      "review_id": "14168268539",
+      "theme": "Portfolio & Statements",
+      "sentiment_score": 1.0,
+      "source": "groq"
     },
     {
       "review_id": "eb94d8e6-f0fd-4f62-ae78-f13767bc3071",
-      "theme": "Performance & App Stability",
+      "theme": "Onboarding & Account Setup",
       "sentiment_score": 0.5,
-      "source": "keyword_fallback"
+      "source": "groq"
+    },
+    {
+      "review_id": "14167961675",
+      "theme": "Payments & Transactions",
+      "sentiment_score": 1.0,
+      "source": "groq"
+    },
+    {
+      "review_id": "14166961383",
+      "theme": "Payments & Transactions",
+      "sentiment_score": 1.0,
+      "source": "groq"
+    },
+    {
+      "review_id": "14166571443",
+      "theme": "Performance & App Stability",
+      "sentiment_score": 1.0,
+      "source": "groq"
     },
     {
       "review_id": "aff57515-52eb-4046-88a8-b26b0dbe5d40",
-      "theme": "Performance & App Stability",
+      "theme": "Payments & Transactions",
       "sentiment_score": -1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
+    },
+    {
+      "review_id": "14165805790",
+      "theme": "Performance & App Stability",
+      "sentiment_score": 1.0,
+      "source": "groq"
+    },
+    {
+      "review_id": "14165801670",
+      "theme": "Portfolio & Statements",
+      "sentiment_score": 1.0,
+      "source": "groq"
+    },
+    {
+      "review_id": "14165522153",
+      "theme": "Onboarding & Account Setup",
+      "sentiment_score": 1.0,
+      "source": "groq"
+    },
+    {
+      "review_id": "14165423476",
+      "theme": "Onboarding & Account Setup",
+      "sentiment_score": 1.0,
+      "source": "groq"
     },
     {
       "review_id": "d765e05c-013a-4837-8599-a3e9e138e4a6",
-      "theme": "Performance & App Stability",
+      "theme": "Payments & Transactions",
       "sentiment_score": -1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
+    },
+    {
+      "review_id": "14165321587",
+      "theme": "Portfolio & Statements",
+      "sentiment_score": 1.0,
+      "source": "groq"
     },
     {
       "review_id": "649b1d10-ab6c-42e7-86c8-787951409d81",
       "theme": "Performance & App Stability",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
+    },
+    {
+      "review_id": "14165214748",
+      "theme": "Performance & App Stability",
+      "sentiment_score": 1.0,
+      "source": "groq"
     },
     {
       "review_id": "03723266-9bb8-4c02-ab48-1ae6deacf7aa",
-      "theme": "Performance & App Stability",
+      "theme": "Portfolio & Statements",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "5c627b0c-2fad-4079-9dd7-09a61978331d",
       "theme": "Payments & Transactions",
-      "sentiment_score": 0.5,
-      "source": "keyword_fallback"
+      "sentiment_score": 0.4,
+      "source": "groq"
     },
     {
       "review_id": "9c4264d0-2a51-4a8b-a359-29ce207f02c6",
-      "theme": "Performance & App Stability",
+      "theme": "Onboarding & Account Setup",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "408fd135-dee4-4a10-aca1-a854e7992803",
-      "theme": "Performance & App Stability",
+      "theme": "Payments & Transactions",
       "sentiment_score": -1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "44e8654a-ffe5-457b-968e-b39640b3604f",
-      "theme": "Performance & App Stability",
+      "theme": "Payments & Transactions",
       "sentiment_score": -1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
+    },
+    {
+      "review_id": "14164777144",
+      "theme": "Portfolio & Statements",
+      "sentiment_score": 0.6,
+      "source": "groq"
     },
     {
       "review_id": "d2324691-19c3-4bbf-901a-e9eb587f12b7",
-      "theme": "Performance & App Stability",
+      "theme": "Payments & Transactions",
       "sentiment_score": -1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "d7f8461c-6deb-495e-9836-fbd8ecb4702d",
-      "theme": "Performance & App Stability",
+      "theme": "Onboarding & Account Setup",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "8112621e-e68f-48eb-8c24-d3b9e68064fe",
-      "theme": "Performance & App Stability",
-      "sentiment_score": -0.5,
-      "source": "keyword_fallback"
+      "theme": "Onboarding & Account Setup",
+      "sentiment_score": -0.6,
+      "source": "groq"
     },
     {
       "review_id": "c19edbb2-005a-4788-bd0f-cef0b9347cc9",
-      "theme": "Performance & App Stability",
+      "theme": "Portfolio & Statements",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "d4143eff-1fc1-47d7-a747-73d1401e193e",
       "theme": "Payments & Transactions",
       "sentiment_score": -1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "d005397a-fe30-4aee-a817-99a174c30e1d",
       "theme": "Performance & App Stability",
       "sentiment_score": -1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "2964212b-32af-4ef9-9558-30ac2b750d6f",
       "theme": "Performance & App Stability",
       "sentiment_score": -1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "ea0f5a7d-314b-47e9-b3bc-2d039cb40382",
       "theme": "Performance & App Stability",
       "sentiment_score": -1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "9910ee56-4b7f-442d-bb1a-887db9633add",
-      "theme": "Performance & App Stability",
+      "theme": "Payments & Transactions",
       "sentiment_score": -1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "f7c1ffff-2846-4629-b43b-d00aa1958464",
-      "theme": "Performance & App Stability",
+      "theme": "Onboarding & Account Setup",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "f59e8d19-b805-4f1b-ad30-91e559686d39",
-      "theme": "Performance & App Stability",
+      "theme": "Payments & Transactions",
       "sentiment_score": -1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "f822822c-2bdb-492f-9cf9-3ca78782b717",
       "theme": "Performance & App Stability",
       "sentiment_score": -1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "55535ced-2ee8-488c-8a0f-7d3703f405d9",
-      "theme": "Performance & App Stability",
+      "theme": "Payments & Transactions",
       "sentiment_score": -1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "b160318e-7329-4120-a9aa-a420032b89a4",
-      "theme": "Performance & App Stability",
+      "theme": "Onboarding & Account Setup",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "80a9fd32-a33c-4414-8173-41f9e5cba019",
-      "theme": "Performance & App Stability",
+      "theme": "Portfolio & Statements",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "b7f4ce04-8b75-4fa6-acac-a0436218ea61",
-      "theme": "Performance & App Stability",
+      "theme": "Portfolio & Statements",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
+    },
+    {
+      "review_id": "14161505544",
+      "theme": "Onboarding & Account Setup",
+      "sentiment_score": 1.0,
+      "source": "groq"
     },
     {
       "review_id": "4235fc39-2dce-4099-b97e-bcb5990094eb",
-      "theme": "Performance & App Stability",
-      "sentiment_score": -0.5,
-      "source": "keyword_fallback"
+      "theme": "Onboarding & Account Setup",
+      "sentiment_score": -0.6,
+      "source": "groq"
+    },
+    {
+      "review_id": "14161429362",
+      "theme": "Onboarding & Account Setup",
+      "sentiment_score": 1.0,
+      "source": "groq"
     },
     {
       "review_id": "c980cc67-e2f9-4b82-ba09-ed1b02226e3a",
       "theme": "Performance & App Stability",
-      "sentiment_score": -0.5,
-      "source": "keyword_fallback"
+      "sentiment_score": -0.55,
+      "source": "groq"
+    },
+    {
+      "review_id": "14161304260",
+      "theme": "Onboarding & Account Setup",
+      "sentiment_score": 1.0,
+      "source": "groq"
     },
     {
       "review_id": "918f4e9d-8cb8-4c5a-ad17-8bd0638b3bd6",
+      "theme": "Portfolio & Statements",
+      "sentiment_score": 1.0,
+      "source": "groq"
+    },
+    {
+      "review_id": "14161198972",
+      "theme": "Payments & Transactions",
+      "sentiment_score": 1.0,
+      "source": "groq"
+    },
+    {
+      "review_id": "14161005874",
       "theme": "Performance & App Stability",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "cabb322c-fd83-4e84-b04a-ea0406438518",
+      "theme": "KYC & Verification",
+      "sentiment_score": -1.0,
+      "source": "groq"
+    },
+    {
+      "review_id": "14160920989",
+      "theme": "Performance & App Stability",
+      "sentiment_score": -0.05,
+      "source": "groq"
+    },
+    {
+      "review_id": "14160860464",
+      "theme": "Payments & Transactions",
+      "sentiment_score": 1.0,
+      "source": "groq"
+    },
+    {
+      "review_id": "14160826478",
+      "theme": "Onboarding & Account Setup",
+      "sentiment_score": 1.0,
+      "source": "groq"
+    },
+    {
+      "review_id": "14160808772",
       "theme": "Performance & App Stability",
       "sentiment_score": -1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "fff86334-b52b-48d6-a760-dcbe1c38dafa",
-      "theme": "Performance & App Stability",
+      "theme": "Payments & Transactions",
       "sentiment_score": -1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "1e6a570a-493e-4118-a4dd-f8edf33fc9b2",
+      "theme": "Performance & App Stability",
+      "sentiment_score": 0.55,
+      "source": "groq"
+    },
+    {
+      "review_id": "14158837244",
       "theme": "Payments & Transactions",
-      "sentiment_score": 0.5,
-      "source": "keyword_fallback"
+      "sentiment_score": 0.95,
+      "source": "groq"
     },
     {
       "review_id": "cae58da9-0e01-4e9a-b648-32e19fb9bd57",
-      "theme": "Performance & App Stability",
+      "theme": "Onboarding & Account Setup",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "cdc22fec-90ef-418d-be5f-dc81e384e208",
-      "theme": "Performance & App Stability",
+      "theme": "KYC & Verification",
       "sentiment_score": -1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "315adc84-6601-48fc-8c23-a7811d2237d5",
       "theme": "Performance & App Stability",
       "sentiment_score": -1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "d585ae2e-fa05-4b97-b42b-0f584aa8ece5",
-      "theme": "Performance & App Stability",
+      "theme": "Onboarding & Account Setup",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "32e3fc7b-b565-4625-9717-dd911d85ed44",
-      "theme": "Performance & App Stability",
+      "theme": "Onboarding & Account Setup",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "0cbd3e43-b46e-4cd6-96ef-0e6618205880",
-      "theme": "Performance & App Stability",
+      "theme": "Onboarding & Account Setup",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "0fd2a850-6be3-455d-95f8-2786b50dac3f",
       "theme": "Performance & App Stability",
       "sentiment_score": -1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "9d9470cf-42a1-4fe4-af40-2d624cc9ce3b",
-      "theme": "Performance & App Stability",
+      "theme": "Portfolio & Statements",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "40251b8b-8b0f-4a53-90f9-34deaa451e99",
-      "theme": "Performance & App Stability",
-      "sentiment_score": 0.0,
-      "source": "keyword_fallback"
+      "theme": "Payments & Transactions",
+      "sentiment_score": -0.1,
+      "source": "groq"
+    },
+    {
+      "review_id": "14157426076",
+      "theme": "Onboarding & Account Setup",
+      "sentiment_score": 1.0,
+      "source": "groq"
     },
     {
       "review_id": "40f2aba9-87ce-48d4-9290-06123b53621b",
-      "theme": "Performance & App Stability",
+      "theme": "Onboarding & Account Setup",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
+    },
+    {
+      "review_id": "14157118387",
+      "theme": "Portfolio & Statements",
+      "sentiment_score": 1.0,
+      "source": "groq"
     },
     {
       "review_id": "30893ef4-99ee-454c-a73c-06fd70842d81",
-      "theme": "Performance & App Stability",
+      "theme": "Portfolio & Statements",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "9235834d-26d6-4d6a-875a-559f9cdf9623",
-      "theme": "Performance & App Stability",
+      "theme": "Portfolio & Statements",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "ae1ba4f8-ea8b-4e29-ac9d-b0bed9c081ec",
-      "theme": "Performance & App Stability",
+      "theme": "Onboarding & Account Setup",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
+    },
+    {
+      "review_id": "14156974354",
+      "theme": "Portfolio & Statements",
+      "sentiment_score": 1.0,
+      "source": "groq"
     },
     {
       "review_id": "3a460b65-5054-48b3-a1df-60e4ff15b2d2",
-      "theme": "Performance & App Stability",
-      "sentiment_score": 0.5,
-      "source": "keyword_fallback"
+      "theme": "Portfolio & Statements",
+      "sentiment_score": 0.45,
+      "source": "groq"
     },
     {
       "review_id": "abbb6727-463f-454c-b36a-91ad497908c2",
       "theme": "Performance & App Stability",
       "sentiment_score": -1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "38cbe280-7bb1-4afa-a388-c492bd08d2a3",
-      "theme": "Performance & App Stability",
+      "theme": "Portfolio & Statements",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
+    },
+    {
+      "review_id": "14154717760",
+      "theme": "Portfolio & Statements",
+      "sentiment_score": 1.0,
+      "source": "groq"
     },
     {
       "review_id": "2d2eaf45-4d76-44d7-afa7-7b88e1269d5e",
       "theme": "Performance & App Stability",
       "sentiment_score": -1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
+    },
+    {
+      "review_id": "14154097681",
+      "theme": "Onboarding & Account Setup",
+      "sentiment_score": 1.0,
+      "source": "groq"
     },
     {
       "review_id": "f0d49ab9-1b16-4ca9-a346-138fa89bfefe",
-      "theme": "Performance & App Stability",
+      "theme": "Onboarding & Account Setup",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
+    },
+    {
+      "review_id": "14153324444",
+      "theme": "Payments & Transactions",
+      "sentiment_score": -1.0,
+      "source": "groq"
     },
     {
       "review_id": "2eeed549-fdb0-4e5f-a8e1-cf6c1e17e266",
-      "theme": "Performance & App Stability",
+      "theme": "Payments & Transactions",
       "sentiment_score": -1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "519b1a8f-b0e1-4085-ab1e-91a8a88d590f",
+      "theme": "Onboarding & Account Setup",
+      "sentiment_score": 1.0,
+      "source": "groq"
+    },
+    {
+      "review_id": "14152645964",
       "theme": "Performance & App Stability",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "3a0fd36a-feb9-42e2-b5ac-456305f8696a",
-      "theme": "Performance & App Stability",
+      "theme": "Portfolio & Statements",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "811fc542-97a9-4d04-9d24-5aa4b0c2cfb7",
-      "theme": "Performance & App Stability",
+      "theme": "Onboarding & Account Setup",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "f023996e-8014-49ca-9125-232ca2cdc5c7",
       "theme": "Performance & App Stability",
       "sentiment_score": -1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
+    },
+    {
+      "review_id": "14151173696",
+      "theme": "Onboarding & Account Setup",
+      "sentiment_score": 1.0,
+      "source": "groq"
     },
     {
       "review_id": "94ce04e6-f5ae-48e6-bd56-26eb9baed56b",
-      "theme": "Performance & App Stability",
-      "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "theme": "Payments & Transactions",
+      "sentiment_score": 0.9,
+      "source": "groq"
     },
     {
       "review_id": "4ed5235e-71a5-4511-8ea4-127bcc2bbc7f",
       "theme": "Performance & App Stability",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "92efb7db-cf6c-4e9b-9e8e-e4534330e866",
-      "theme": "Performance & App Stability",
+      "theme": "Portfolio & Statements",
       "sentiment_score": -1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "9aeff5b2-dc19-4b38-81ea-75a614b3c1cd",
-      "theme": "Performance & App Stability",
+      "theme": "Onboarding & Account Setup",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "1bca6d8d-25f9-406e-983a-1ed69fa3924b",
-      "theme": "Performance & App Stability",
+      "theme": "Payments & Transactions",
       "sentiment_score": -1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "5fe94e14-8136-4737-b85d-996a140e50f7",
-      "theme": "Performance & App Stability",
+      "theme": "Portfolio & Statements",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "fe54fc5b-b141-4f71-844d-3db95c3ba433",
       "theme": "Performance & App Stability",
       "sentiment_score": -1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "10de20f1-eaf4-4179-a53b-1144eef4f8f6",
-      "theme": "Performance & App Stability",
+      "theme": "Onboarding & Account Setup",
       "sentiment_score": -1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "714d372b-7f03-4a92-ad88-9af2bd9e7004",
       "theme": "Performance & App Stability",
       "sentiment_score": -1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "48d4e881-a0a2-481e-b300-11b8e028094c",
-      "theme": "Performance & App Stability",
+      "theme": "Portfolio & Statements",
       "sentiment_score": 0.5,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "c08d9222-32f1-4e52-a569-0a41e6238fe2",
       "theme": "Performance & App Stability",
-      "sentiment_score": -0.5,
-      "source": "keyword_fallback"
+      "sentiment_score": -0.6,
+      "source": "groq"
     },
     {
       "review_id": "19a874e7-89b3-4505-88e9-61c1b62bdb18",
-      "theme": "Performance & App Stability",
+      "theme": "Payments & Transactions",
       "sentiment_score": -1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "621a72a6-8a6f-4f26-b3f4-fc9175044b71",
-      "theme": "Performance & App Stability",
+      "theme": "Onboarding & Account Setup",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "435f4023-01d2-4a6d-90dc-42ea25cec781",
-      "theme": "Performance & App Stability",
+      "theme": "Payments & Transactions",
       "sentiment_score": -1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "bf46baad-d32c-45f0-8862-495a2624380f",
-      "theme": "Performance & App Stability",
+      "theme": "Onboarding & Account Setup",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "bfe4acdc-ddf2-4985-950e-e2cf0519c10b",
-      "theme": "Performance & App Stability",
+      "theme": "Payments & Transactions",
       "sentiment_score": -1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "a3c1034d-7979-4176-bb74-874ce26adc53",
-      "theme": "Performance & App Stability",
+      "theme": "Portfolio & Statements",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "95dc55a4-99f2-4a76-b384-496ef3750584",
-      "theme": "Performance & App Stability",
+      "theme": "Portfolio & Statements",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "6299fe0c-8657-42fd-9674-0ca6ffd35940",
-      "theme": "Performance & App Stability",
-      "sentiment_score": -0.5,
-      "source": "keyword_fallback"
+      "theme": "Payments & Transactions",
+      "sentiment_score": -0.7,
+      "source": "groq"
     },
     {
       "review_id": "f97601c1-c6f2-47d5-98ba-08a6000125f7",
-      "theme": "Performance & App Stability",
-      "sentiment_score": 0.5,
-      "source": "keyword_fallback"
+      "theme": "Onboarding & Account Setup",
+      "sentiment_score": 0.4,
+      "source": "groq"
     },
     {
       "review_id": "0caab628-b65b-440e-8f68-27fb67e60685",
       "theme": "Performance & App Stability",
       "sentiment_score": -1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "a70336a6-b105-4a9b-8026-75ac191098a3",
       "theme": "Payments & Transactions",
       "sentiment_score": -1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "2959063a-40c2-4e97-8b1c-88ddbc7458a0",
       "theme": "Performance & App Stability",
       "sentiment_score": -1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "3ba06f41-ae23-4430-a334-c5b18b879db3",
-      "theme": "Performance & App Stability",
+      "theme": "Onboarding & Account Setup",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "cc284b7b-174b-4a4b-8b71-081d8572f277",
-      "theme": "Performance & App Stability",
+      "theme": "Payments & Transactions",
       "sentiment_score": -1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "6b000a40-d348-4193-89fe-019f3441f281",
-      "theme": "Performance & App Stability",
+      "theme": "Payments & Transactions",
       "sentiment_score": -1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "0cbc9aa7-b084-4c0c-8a27-ea0789a5beff",
-      "theme": "Performance & App Stability",
+      "theme": "Onboarding & Account Setup",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "bfc67583-e54e-40ea-9da5-a82aa877e425",
-      "theme": "Performance & App Stability",
+      "theme": "Payments & Transactions",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "d7689d51-c736-4e09-ba1c-ef0ab0bf9182",
-      "theme": "Performance & App Stability",
+      "theme": "Portfolio & Statements",
       "sentiment_score": 0.5,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "9b3c39cc-4237-4812-a124-95a9dcafaf49",
-      "theme": "Performance & App Stability",
+      "theme": "Portfolio & Statements",
       "sentiment_score": 0.5,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "8d37385c-f801-4918-bbcf-c0d0ec450c99",
-      "theme": "Performance & App Stability",
+      "theme": "Onboarding & Account Setup",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "f4530a1e-2b72-4be9-9394-66044cc35f44",
       "theme": "Performance & App Stability",
-      "sentiment_score": -0.5,
-      "source": "keyword_fallback"
+      "sentiment_score": -0.6,
+      "source": "groq"
     },
     {
       "review_id": "02159abe-7f9d-4ec8-8bdc-7178891596c0",
-      "theme": "Performance & App Stability",
+      "theme": "Portfolio & Statements",
       "sentiment_score": 0.5,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "4d775f15-cce4-4d76-94c7-e11d2fb8dc53",
       "theme": "Performance & App Stability",
       "sentiment_score": -1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "979f0580-17f7-436b-ad85-00b5e3e1c3e3",
-      "theme": "Performance & App Stability",
-      "sentiment_score": 0.0,
-      "source": "keyword_fallback"
+      "theme": "Payments & Transactions",
+      "sentiment_score": -0.1,
+      "source": "groq"
     },
     {
       "review_id": "6b6aacfe-7ecf-4e48-b7c6-af7f0b7702ce",
-      "theme": "Performance & App Stability",
+      "theme": "Portfolio & Statements",
       "sentiment_score": 0.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "943048a3-2254-4b37-bb59-0f36a541e14c",
       "theme": "Performance & App Stability",
       "sentiment_score": -1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "e20e7f9c-2441-4780-9fdc-5bd9ea3d9a8e",
-      "theme": "Performance & App Stability",
+      "theme": "Portfolio & Statements",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "81b5f31c-0a0a-4fe6-acde-68791de1e137",
-      "theme": "Performance & App Stability",
+      "theme": "Portfolio & Statements",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "f1ba6628-6f24-42e6-be5b-906e443fc8a3",
-      "theme": "Performance & App Stability",
+      "theme": "Portfolio & Statements",
       "sentiment_score": 0.5,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "e1916733-ab77-4d65-bb49-88386ac5a0a2",
       "theme": "Performance & App Stability",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "beab0f36-380f-40aa-a914-5cef77060554",
-      "theme": "Performance & App Stability",
+      "theme": "Payments & Transactions",
       "sentiment_score": -1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "02366a21-549e-451e-aa8f-09b14d3b18fd",
       "theme": "Performance & App Stability",
       "sentiment_score": -1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "9888b20b-d823-43bf-97d0-7212bd1fca3f",
-      "theme": "Performance & App Stability",
+      "theme": "Payments & Transactions",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "529f10c3-ca1c-4baf-aae0-eb9af32a5a20",
-      "theme": "Performance & App Stability",
+      "theme": "Portfolio & Statements",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "f4a10825-4b29-4eb1-9547-f29e0bfb630e",
-      "theme": "Performance & App Stability",
+      "theme": "Payments & Transactions",
       "sentiment_score": -1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "2d2f410d-5584-4d9f-b323-dc432b15bcf3",
       "theme": "Performance & App Stability",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "e1df859a-5bee-4b8b-8a56-93c1f2cb4500",
-      "theme": "Performance & App Stability",
+      "theme": "Payments & Transactions",
       "sentiment_score": -1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "bb0202ad-4d52-4cc5-9dfb-3dfaeb0a257e",
       "theme": "Performance & App Stability",
       "sentiment_score": -1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "3ea65965-c10d-4816-997e-271aa109d815",
-      "theme": "Performance & App Stability",
+      "theme": "Portfolio & Statements",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "52aa1e7d-0c52-4b20-ab9a-5298c7493e8b",
-      "theme": "Performance & App Stability",
+      "theme": "Payments & Transactions",
       "sentiment_score": -1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "6797a405-1850-48d6-990e-48183cba3740",
-      "theme": "Performance & App Stability",
+      "theme": "Payments & Transactions",
       "sentiment_score": -1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "bbdab9fe-fa30-445f-b686-75049e4c82db",
-      "theme": "Performance & App Stability",
+      "theme": "Payments & Transactions",
       "sentiment_score": -1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "bb1f8a9d-9734-4ddb-af79-b53bf7110b9e",
-      "theme": "Performance & App Stability",
-      "sentiment_score": 0.5,
-      "source": "keyword_fallback"
+      "theme": "Payments & Transactions",
+      "sentiment_score": 0.4,
+      "source": "groq"
     },
     {
       "review_id": "d8797e7c-60ba-467a-8c98-d80b80e79b2f",
-      "theme": "Performance & App Stability",
+      "theme": "Onboarding & Account Setup",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "a6ffe240-0f91-49ae-95f0-caa6fac6ebce",
-      "theme": "Performance & App Stability",
+      "theme": "Payments & Transactions",
       "sentiment_score": -1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "70eb6d51-53c2-44f6-b719-80870dbd6a88",
-      "theme": "Performance & App Stability",
+      "theme": "Onboarding & Account Setup",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "95330028-6c09-4874-b0f4-bb17d341e4cb",
-      "theme": "Performance & App Stability",
+      "theme": "Portfolio & Statements",
       "sentiment_score": 0.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "c2b07387-3ffb-4584-9001-23589ae13977",
-      "theme": "Performance & App Stability",
+      "theme": "Onboarding & Account Setup",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "c20bcf04-aba8-4f6b-87fc-f350ba3734df",
-      "theme": "Performance & App Stability",
+      "theme": "Portfolio & Statements",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "dfe20046-fb95-4053-972a-f62243e6547d",
       "theme": "Performance & App Stability",
       "sentiment_score": 0.5,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "8ca12a57-f58e-4b78-9fa6-860b2f62549a",
-      "theme": "Performance & App Stability",
+      "theme": "Onboarding & Account Setup",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "40c92d77-bba1-48b0-b6a2-ea4d1e66c900",
-      "theme": "Performance & App Stability",
+      "theme": "Payments & Transactions",
       "sentiment_score": -1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "6bed5b63-8a62-40dd-befe-6a59ae9b6651",
-      "theme": "Performance & App Stability",
+      "theme": "Payments & Transactions",
       "sentiment_score": -1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "cc7edb95-9e8a-4c3d-b95e-38c1ba8ca9bb",
-      "theme": "Performance & App Stability",
+      "theme": "Onboarding & Account Setup",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "2b0f2bc2-84e7-47e7-9735-a6148b400d09",
-      "theme": "Performance & App Stability",
+      "theme": "KYC & Verification",
       "sentiment_score": -1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "13e5f61a-5939-4092-a80c-126009763714",
       "theme": "Payments & Transactions",
       "sentiment_score": -1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "1f3fbaa9-69aa-412f-818d-0a5663a0b1d9",
-      "theme": "Portfolio & Statements",
+      "theme": "Performance & App Stability",
       "sentiment_score": 0.5,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "cc395284-6a05-4a3f-bce1-37881cd58f52",
-      "theme": "Performance & App Stability",
+      "theme": "Onboarding & Account Setup",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "b7a9fb50-a1a3-4c15-911e-8a71e90b9fff",
-      "theme": "Performance & App Stability",
+      "theme": "KYC & Verification",
       "sentiment_score": -1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "172f3543-b75d-4e55-90d8-df3b6a06d7bf",
       "theme": "Performance & App Stability",
       "sentiment_score": 0.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "e9173214-6216-4e99-bd65-97ad9c3ce883",
-      "theme": "Performance & App Stability",
+      "theme": "Payments & Transactions",
       "sentiment_score": -0.5,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "a0e08fb9-04d5-4d8b-842d-88945039ab4f",
       "theme": "Performance & App Stability",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "b0733e30-dd86-4590-9f7c-1a5dcbbd99d3",
       "theme": "Performance & App Stability",
       "sentiment_score": -1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "d1148963-14ae-4be7-96c1-26791252bf29",
-      "theme": "Performance & App Stability",
+      "theme": "Payments & Transactions",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "f0018dc1-87ac-4c90-9fc7-0f4cf32f7430",
       "theme": "Payments & Transactions",
       "sentiment_score": -1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "3d292dd3-aa88-4fa9-a242-a3fa9e619870",
-      "theme": "Performance & App Stability",
+      "theme": "Portfolio & Statements",
       "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "52834439-0982-4754-9bff-60d57180dab5",
-      "theme": "Performance & App Stability",
+      "theme": "Onboarding & Account Setup",
       "sentiment_score": -1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     },
     {
       "review_id": "18887d3e-68a3-4f04-8a90-ad495ed12012",
       "theme": "Performance & App Stability",
       "sentiment_score": -1.0,
-      "source": "keyword_fallback"
-    },
-    {
-      "review_id": "37158eff-78a5-498d-a31f-a0c7b10ca422",
-      "theme": "Performance & App Stability",
-      "sentiment_score": 1.0,
-      "source": "keyword_fallback"
-    },
-    {
-      "review_id": "d829f75c-d8f9-4649-84ee-35a96da07aa5",
-      "theme": "Performance & App Stability",
-      "sentiment_score": -0.5,
-      "source": "keyword_fallback"
-    },
-    {
-      "review_id": "68e183f7-1925-488e-b540-b77770586157",
-      "theme": "Performance & App Stability",
-      "sentiment_score": -1.0,
-      "source": "keyword_fallback"
-    },
-    {
-      "review_id": "dfdf8479-13b1-41d7-8d3d-e223e13878e5",
-      "theme": "Performance & App Stability",
-      "sentiment_score": 0.5,
-      "source": "keyword_fallback"
-    },
-    {
-      "review_id": "f6a26b60-5101-40c1-b3ed-8714ffcfd3c6",
-      "theme": "Performance & App Stability",
-      "sentiment_score": -1.0,
-      "source": "keyword_fallback"
-    },
-    {
-      "review_id": "bda5dc27-b0c8-484c-b85b-90a12eacabe5",
-      "theme": "Performance & App Stability",
-      "sentiment_score": 1.0,
-      "source": "keyword_fallback"
-    },
-    {
-      "review_id": "11771caa-f73a-4539-8872-f9c317bfc05a",
-      "theme": "Performance & App Stability",
-      "sentiment_score": -1.0,
-      "source": "keyword_fallback"
-    },
-    {
-      "review_id": "dee8de65-e9c7-4bfd-b9af-b3e0d9a13e76",
-      "theme": "Performance & App Stability",
-      "sentiment_score": -1.0,
-      "source": "keyword_fallback"
-    },
-    {
-      "review_id": "a3fcb9a8-d6c2-4b72-943e-dcff3d96b6e3",
-      "theme": "Performance & App Stability",
-      "sentiment_score": 1.0,
-      "source": "keyword_fallback"
-    },
-    {
-      "review_id": "0ea41bba-d25e-4083-b497-c7ff0ca8d32c",
-      "theme": "Performance & App Stability",
-      "sentiment_score": -1.0,
-      "source": "keyword_fallback"
-    },
-    {
-      "review_id": "429f8a67-1716-4e47-9fdf-e6048bb7573f",
-      "theme": "Performance & App Stability",
-      "sentiment_score": 1.0,
-      "source": "keyword_fallback"
-    },
-    {
-      "review_id": "858f4d51-928a-4d38-a955-457306e882c0",
-      "theme": "Performance & App Stability",
-      "sentiment_score": 1.0,
-      "source": "keyword_fallback"
-    },
-    {
-      "review_id": "46a4346d-7cc8-41b7-8f84-8fece960beec",
-      "theme": "Performance & App Stability",
-      "sentiment_score": 1.0,
-      "source": "keyword_fallback"
-    },
-    {
-      "review_id": "7c573010-1012-413e-a1ae-0baa64df5309",
-      "theme": "Performance & App Stability",
-      "sentiment_score": 1.0,
-      "source": "keyword_fallback"
-    },
-    {
-      "review_id": "c1e28d17-dbc9-42ec-bf91-10bc8297aa4f",
-      "theme": "Performance & App Stability",
-      "sentiment_score": 1.0,
-      "source": "keyword_fallback"
+      "source": "groq"
     }
   ],
   "themes": [
     {
       "name": "Onboarding & Account Setup",
-      "review_count": 5,
-      "average_sentiment": 0.0,
-      "average_rating": 3.0,
-      "priority_score": 5.0,
+      "review_count": 135,
+      "average_sentiment": 0.8622,
+      "average_rating": 4.73,
+      "priority_score": 18.6,
       "featured": false
     },
     {
       "name": "KYC & Verification",
-      "review_count": 3,
-      "average_sentiment": 0.3333,
-      "average_rating": 3.67,
-      "priority_score": 2.0,
+      "review_count": 10,
+      "average_sentiment": -0.2,
+      "average_rating": 2.6,
+      "priority_score": 12.0,
       "featured": false
     },
     {
       "name": "Payments & Transactions",
-      "review_count": 94,
-      "average_sentiment": 0.1064,
-      "average_rating": 3.21,
-      "priority_score": 84.0,
+      "review_count": 186,
+      "average_sentiment": -0.0406,
+      "average_rating": 2.93,
+      "priority_score": 193.55,
       "featured": true
     },
     {
       "name": "Portfolio & Statements",
-      "review_count": 17,
-      "average_sentiment": -0.0882,
-      "average_rating": 2.82,
-      "priority_score": 18.5,
+      "review_count": 92,
+      "average_sentiment": 0.6234,
+      "average_rating": 4.25,
+      "priority_score": 34.65,
       "featured": true
     },
     {
       "name": "Performance & App Stability",
-      "review_count": 303,
-      "average_sentiment": 0.1403,
-      "average_rating": 3.28,
-      "priority_score": 260.5,
+      "review_count": 115,
+      "average_sentiment": -0.1674,
+      "average_rating": 2.68,
+      "priority_score": 134.25,
       "featured": true
     }
   ],
   "quotes": [
+    {
+      "theme": "Payments & Transactions",
+      "review_id": "88723d1f-f38c-4a29-9d00-f5b8621465f9",
+      "quote": "\"MTF charges and interest charges are very high. Charges are deducted separately without proper clarity. My pledged ETFs were sold and multiple charges were applied. Customer support did not explain clearly. Very disappointed with the",
+      "store": "play_store",
+      "rating": 1
+    },
     {
       "theme": "Performance & App Stability",
       "review_id": "b88c0b6f-2db9-447c-8f7e-5ac6a52ba4f7",
@@ -2588,28 +3291,21 @@
       "rating": 1
     },
     {
-      "theme": "Payments & Transactions",
-      "review_id": "d35427eb-7065-439a-ac62-93d187e9f3b4",
-      "quote": "Like upi that you moved into profile section similarly move loan section also as keep only 3 mail section in from best view in that. Its irritating. hide atleast",
-      "store": "play_store",
-      "rating": 1
-    },
-    {
       "theme": "Portfolio & Statements",
-      "review_id": "1c0a6290-b550-44d0-a567-d670a625066f",
-      "quote": "Don't use this difficult to set GTT stop due new update, if you use i will loss your money",
+      "review_id": "a1f45ee5-b684-4b8f-8131-bfdd2fb89d2c",
+      "quote": "App is super to trade and invest. But regret to inform that neither there is clarity in statement of account of Funds nor the call centre guys are trained to handle with customers. Further it",
       "store": "play_store",
       "rating": 1
     }
   ],
   "action_ideas": [
-    "Address Performance & App Stability pain points highlighted in reviews (e.g. \"The grow chart pattern is very slow if you are executing any trade then the prem\") with a focused fix in the corresponding Groww flow.",
-    "Address Payments & Transactions pain points highlighted in reviews (e.g. \"Like upi that you moved into profile section similarly move loan section also as\") with a focused fix in the corresponding Groww flow.",
-    "Address Portfolio & Statements pain points highlighted in reviews (e.g. \"Don't use this difficult to set GTT stop due new update, if you use i will loss \") with a focused fix in the corresponding Groww flow."
+    "Enhance the payment flow on the Groww app to provide clear and itemized breakdowns of charges, such as MTF charges and interest charges, to avoid unexpected deductions and improve transparency for users",
+    "Optimize the trade execution and chart loading times on the Groww app to reduce lag and ensure real-time updates, particularly for premium charts, to prevent potential losses due to delayed information",
+    "Develop a more detailed and user-friendly statement of account for funds within the Groww app, including clear explanations of transactions and charges, and provide additional training to customer support agents to effectively address user inquiries and concerns"
   ],
   "groq_usage": {
-    "requests": 0,
-    "estimated_tokens": 0,
-    "offline_mode": true
+    "requests": 23,
+    "estimated_tokens": 47931,
+    "offline_mode": false
   }
 }

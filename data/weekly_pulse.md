@@ -1,31 +1,31 @@
 ## Groww Weekly Pulse — Week of 2026-06-20
-### Period: 2026-06-03 to 2026-06-19 | Reviews Analysed: 422
+### Period: 2026-06-03 to 2026-06-19 | Reviews Analysed: 538
 
 ---
 
 ### Top Themes
-1. **Performance & App Stability** — 303 reviews, avg. rating 3.28 ⭐
-   Mixed sentiment on performance & app stability — pain points remain.
+1. **Payments & Transactions** — 186 reviews, avg. rating 2.93 ⭐
+   Negative feedback dominates payments & transactions this period.
 
-2. **Payments & Transactions** — 94 reviews, avg. rating 3.21 ⭐
-   Mixed sentiment on payments & transactions — pain points remain.
+2. **Performance & App Stability** — 115 reviews, avg. rating 2.68 ⭐
+   Negative feedback dominates performance & app stability this period.
 
-3. **Portfolio & Statements** — 17 reviews, avg. rating 2.82 ⭐
-   Negative feedback dominates portfolio & statements this period.
+3. **Portfolio & Statements** — 92 reviews, avg. rating 4.25 ⭐
+   Mostly positive tone on portfolio & statements, with some complaints.
 
 ---
 
 ### User Voices
+> "MTF charges and interest charges are very high. Charges are deducted separately without proper clarity. My pledged ETFs were sold and multiple charges were applied. Customer support did not explain clearly. Very disappointed with the" — Play Store, 1⭐
+
 > "The grow chart pattern is very slow if you are executing any trade then the premium chart is very slow and does not show in real time and lag problem,and you will lose the money" — Play Store, 1⭐
 
-> "Like upi that you moved into profile section similarly move loan section also as keep only 3 mail section in from best view in that. Its irritating. hide atleast" — Play Store, 1⭐
-
-> "Don't use this difficult to set GTT stop due new update, if you use i will loss your money" — Play Store, 1⭐
+> "App is super to trade and invest. But regret to inform that neither there is clarity in statement of account of Funds nor the call centre guys are trained to handle with customers. Further it" — Play Store, 1⭐
 
 ---
 
 ### Action Ideas
 
-1. Address Performance & App Stability pain points highlighted in reviews (e.g. "The grow chart pattern is very slow if you are executing any trade then...
-2. Address Payments & Transactions pain points highlighted in reviews (e.g. "Like upi that you moved into profile section similarly move loan section also as") with...
-3. Address Portfolio & Statements pain points highlighted in reviews (e.g. "Don't use this difficult to set GTT stop due new update, if you use i...
+1. Enhance the payment flow on the Groww app to provide clear and itemized breakdowns of charges, such as...
+2. Optimize the trade execution and chart loading times on the Groww app to reduce lag and ensure real-time...
+3. Develop a more detailed and user-friendly statement of account for funds within the Groww app, including clear explanations...

@@ -1,7 +1,7 @@
 {
-  "run_id": "a5117541-f900-4205-a003-10006022457c",
+  "run_id": "5c32c016-3e90-4b81-86d3-e0326cf11844",
   "phase": 5,
-  "started_at": "2026-06-20T10:01:17.918345+00:00",
+  "started_at": "2026-06-22T12:20:12.365367+00:00",
   "config": {
     "review_window_weeks": 10,
     "max_themes": 5,
@@ -16,100 +16,100 @@
   "steps": [
     {
       "step": "fetch_app_store_reviews",
-      "started_at": "2026-06-20T10:01:17.918490+00:00",
-      "completed_at": "2026-06-20T10:01:19.069336+00:00",
+      "started_at": "2026-06-22T12:20:12.365524+00:00",
+      "completed_at": "2026-06-22T12:20:13.553322+00:00",
       "status": "success",
       "output_summary": "500 reviews fetched from App Store"
     },
     {
       "step": "fetch_play_store_reviews",
-      "started_at": "2026-06-20T10:01:19.069806+00:00",
-      "completed_at": "2026-06-20T10:01:21.579771+00:00",
+      "started_at": "2026-06-22T12:20:13.553812+00:00",
+      "completed_at": "2026-06-22T12:20:15.219628+00:00",
       "status": "success",
       "output_summary": "2000 reviews fetched from Play Store"
     },
     {
       "step": "merge_and_deduplicate",
-      "started_at": "2026-06-20T10:01:21.580091+00:00",
-      "completed_at": "2026-06-20T10:01:21.593276+00:00",
+      "started_at": "2026-06-22T12:20:15.219946+00:00",
+      "completed_at": "2026-06-22T12:20:15.233391+00:00",
       "status": "success",
-      "output_summary": "Merged 2500 raw reviews, removed 1030 duplicates, 1470 unique"
+      "output_summary": "Merged 2500 raw reviews, removed 1053 duplicates, 1447 unique"
     },
     {
       "step": "scrub_and_validate",
-      "started_at": "2026-06-20T10:01:21.593502+00:00",
-      "completed_at": "2026-06-20T10:01:21.609193+00:00",
+      "started_at": "2026-06-22T12:20:15.233623+00:00",
+      "completed_at": "2026-06-22T12:20:15.248927+00:00",
       "status": "success",
-      "output_summary": "Validated 538 clean reviews (932 discarded), saved reviews_raw.json"
+      "output_summary": "Validated 526 clean reviews (921 discarded), saved reviews_raw.json"
     },
     {
       "step": "classify_themes",
-      "started_at": "2026-06-20T10:01:21.609408+00:00",
-      "completed_at": "2026-06-20T10:05:54.128686+00:00",
+      "started_at": "2026-06-22T12:20:15.249119+00:00",
+      "completed_at": "2026-06-22T12:24:46.028917+00:00",
       "status": "success",
-      "output_summary": "Classified 538 reviews (pre-routed=173, groq=365 in 19 batches)"
+      "output_summary": "Classified 526 reviews (pre-routed=171, groq=355 in 18 batches)"
     },
     {
       "step": "score_and_rank_themes",
-      "started_at": "2026-06-20T10:05:54.129032+00:00",
-      "completed_at": "2026-06-20T10:05:54.129527+00:00",
+      "started_at": "2026-06-22T12:24:46.029232+00:00",
+      "completed_at": "2026-06-22T12:24:46.029741+00:00",
       "status": "success",
-      "output_summary": "Ranked 5 themes; top: Payments & Transactions (186), Performance & App Stability (115), Portfolio & Statements (92)"
+      "output_summary": "Ranked 5 themes; top: Payments & Transactions (180), Performance & App Stability (104), Portfolio & Statements (86)"
     },
     {
       "step": "extract_quotes",
-      "started_at": "2026-06-20T10:05:54.129772+00:00",
-      "completed_at": "2026-06-20T10:06:02.010538+00:00",
+      "started_at": "2026-06-22T12:24:46.029954+00:00",
+      "completed_at": "2026-06-22T12:24:54.234148+00:00",
       "status": "success",
       "output_summary": "Selected 3 verbatim quotes for featured themes"
     },
     {
       "step": "generate_actions",
-      "started_at": "2026-06-20T10:06:02.010899+00:00",
-      "completed_at": "2026-06-20T10:06:05.117267+00:00",
+      "started_at": "2026-06-22T12:24:54.234460+00:00",
+      "completed_at": "2026-06-22T12:24:57.515095+00:00",
       "status": "success",
       "output_summary": "Generated 3 action ideas, saved processed_signal.json"
     },
     {
       "step": "assemble_pulse_note",
-      "started_at": "2026-06-20T10:06:05.117506+00:00",
-      "completed_at": "2026-06-20T10:06:05.119921+00:00",
+      "started_at": "2026-06-22T12:24:57.515321+00:00",
+      "completed_at": "2026-06-22T12:24:57.517818+00:00",
       "status": "success",
       "output_summary": "Assembled pulse note (245 words), saved weekly_pulse.md"
     },
     {
       "step": "validate_note",
-      "started_at": "2026-06-20T10:06:05.120153+00:00",
-      "completed_at": "2026-06-20T10:06:05.120735+00:00",
+      "started_at": "2026-06-22T12:24:57.518034+00:00",
+      "completed_at": "2026-06-22T12:24:57.518735+00:00",
       "status": "success",
       "output_summary": "All note checks passed (245 words)"
     },
     {
       "step": "create_google_doc",
-      "started_at": "2026-06-20T10:06:05.120975+00:00",
-      "completed_at": "2026-06-20T10:06:07.541853+00:00",
+      "started_at": "2026-06-22T12:24:57.518960+00:00",
+      "completed_at": "2026-06-22T12:25:00.196253+00:00",
       "status": "success",
       "output_summary": "Appended pulse to Google Doc (Content appended to document)"
     },
     {
       "step": "create_gmail_draft",
-      "started_at": "2026-06-20T10:06:07.542378+00:00",
-      "completed_at": "2026-06-20T10:06:08.451815+00:00",
+      "started_at": "2026-06-22T12:25:00.196814+00:00",
+      "completed_at": "2026-06-22T12:25:01.291829+00:00",
       "status": "success",
-      "output_summary": "Gmail draft created (ID: r7491959963774679638)"
+      "output_summary": "Gmail draft created (ID: r6848676016475986845)"
     },
     {
       "step": "write_output_links",
-      "started_at": "2026-06-20T10:06:08.452352+00:00",
-      "completed_at": "2026-06-20T10:06:08.452580+00:00",
+      "started_at": "2026-06-22T12:25:01.292355+00:00",
+      "completed_at": "2026-06-22T12:25:01.292612+00:00",
       "status": "success",
       "output_summary": "Wrote data/output_links.json"
     }
   ],
-  "completed_at": "2026-06-20T10:06:08.452973+00:00",
+  "completed_at": "2026-06-22T12:25:01.292893+00:00",
   "final_status": "success",
   "outputs": {
     "doc_url": "https://docs.google.com/document/d/1Vxf5vjn_cg3O1oYU8l22C26A3kIceMBUsOtMzjCaA6E/edit",
-    "draft_id": "r7491959963774679638"
+    "draft_id": "r6848676016475986845"
   }
 }

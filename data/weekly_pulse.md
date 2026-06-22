@@ -1,22 +1,22 @@
-## Groww Weekly Pulse — Week of 2026-06-20
-### Period: 2026-06-03 to 2026-06-19 | Reviews Analysed: 538
+## Groww Weekly Pulse — Week of 2026-06-22
+### Period: 2026-06-04 to 2026-06-21 | Reviews Analysed: 526
 
 ---
 
 ### Top Themes
-1. **Payments & Transactions** — 186 reviews, avg. rating 2.93 ⭐
-   Negative feedback dominates payments & transactions this period.
+1. **Payments & Transactions** — 180 reviews, avg. rating 3.09 ⭐
+   Mixed sentiment on payments & transactions — pain points remain.
 
-2. **Performance & App Stability** — 115 reviews, avg. rating 2.68 ⭐
+2. **Performance & App Stability** — 104 reviews, avg. rating 2.79 ⭐
    Negative feedback dominates performance & app stability this period.
 
-3. **Portfolio & Statements** — 92 reviews, avg. rating 4.25 ⭐
+3. **Portfolio & Statements** — 86 reviews, avg. rating 4.34 ⭐
    Mostly positive tone on portfolio & statements, with some complaints.
 
 ---
 
 ### User Voices
-> "MTF charges and interest charges are very high. Charges are deducted separately without proper clarity. My pledged ETFs were sold and multiple charges were applied. Customer support did not explain clearly. Very disappointed with the" — Play Store, 1⭐
+> "Worst trading application with very poor customer support. They initially confirmed that my commodity trading issue was settled and that compensation would be credited. Later, they reversed their decision and provided an unreasonable explanation to" — Play Store, 1⭐
 
 > "The grow chart pattern is very slow if you are executing any trade then the premium chart is very slow and does not show in real time and lag problem,and you will lose the money" — Play Store, 1⭐
 
@@ -26,6 +26,6 @@
 
 ### Action Ideas
 
-1. Enhance the payment flow on the Groww app to provide clear and itemized breakdowns of charges, such as...
-2. Optimize the trade execution and chart loading times on the Groww app to reduce lag and ensure real-time...
-3. Develop a more detailed and user-friendly statement of account for funds within the Groww app, including clear explanations...
+1. Optimize the payment processing flow on the 'Trade' page to reduce errors and improve the overall transaction experience...
+2. Enhance the performance of the 'Premium Chart' feature in the 'Market Watch' section to provide real-time updates and...
+3. Redesign the 'Account Statement' page to provide clear and concise information about fund transactions, and implement a training...
